@@ -1,0 +1,1872 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <title>All Panels &amp; Cheats — God Zilla  MODS</title>
+    <meta name="description" content="Browse all Free Fire premium aimbot injectors, root panels, non-root bypass, and iOS exclusive keys.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css?v=1795560873">
+    <!-- Favicon & Identical Brand Icons (Cache-Busted & Multi-Resolution) -->
+    <link rel="icon" type="image/png" sizes="64x64" href="assets/images/favicon.png?v=5.0">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon.png?v=5.0">
+    <link rel="icon" type="image/png" href="assets/images/logo.png?v=5.0">
+    <link rel="shortcut icon" href="favicon.ico?v=5.0">
+    <link rel="apple-touch-icon" href="assets/images/favicon.png?v=5.0">
+    <meta name="theme-color" content="#020704">
+    <style>
+        /* Inline Critical Preloader Styles (Prevents CSS lag/caching issues) */
+        #page-preloader {
+            position: fixed !important;
+            top: 0 !important;
+            left: 0 !important;
+            width: 100vw !important;
+            height: 100vh !important;
+            background: #020704 !important;
+            z-index: 999999 !important;
+            display: flex !important;
+            flex-direction: column !important;
+            align-items: center !important;
+            justify-content: center !important;
+            transition: opacity 0.25s ease, visibility 0.25s ease !important;
+        }
+        #page-preloader.loaded {
+            opacity: 0 !important;
+            visibility: hidden !important;
+            pointer-events: none !important;
+            display: none !important;
+        }
+        .preloader-avatar {
+            width: 72px !important;
+            height: 72px !important;
+            max-width: 72px !important;
+            max-height: 72px !important;
+            border-radius: 50% !important;
+            padding: 3px !important;
+            background: conic-gradient(from 0deg, #00ff88, #00d2ff, #ff2d55, #00ff88) !important;
+            box-shadow: 0 0 25px rgba(0, 255, 136, 0.45) !important;
+            margin: 0 auto 14px auto !important;
+        }
+        .preloader-avatar img {
+            width: 100% !important;
+            height: 100% !important;
+            max-width: 72px !important;
+            max-height: 72px !important;
+            border-radius: 50% !important;
+            object-fit: cover !important;
+            display: block !important;
+        }
+    </style>
+</head>
+<body data-page="shop" data-initial-tab="shop">
+
+    
+    
+<!-- Cloudflare Security Gate Container -->
+<div id="cf-turnstile-wrapper" class="" aria-live="polite">
+    <div class="cf-turnstile-card">
+        
+        <!-- Header & Site Details -->
+        <div class="cf-brand-header">
+            <div class="cf-domain-badge">
+                <svg class="cf-lock-icon" viewBox="0 0 24 24" width="14" height="14" fill="currentColor">
+                    <path d="M18 8h-1V6c0-2.76-2.24-5-5-5S7 3.24 7 6v2H6c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V10c0-1.1-.9-2-2-2zm-6 9c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2zm3.1-9H8.9V6c0-1.71 1.39-3.1 3.1-3.1 1.71 0 3.1 1.39 3.1 3.1v2z"/>
+                </svg>
+                <span>God Zilla pannel.shop</span>
+            </div>
+            <h1 class="cf-title">Verify you are human</h1>
+            <p class="cf-subtitle">Please verify you are a human to continue to <strong>God Zilla  MODS STORE</strong>.</p>
+        </div>
+
+        <!-- Official Turnstile (if site key configured) OR Pixel-Perfect Native Interactive Widget -->
+                    <div id="cf-turnstile-box" class="cf-turnstile-box" onclick="CFGate.handleClick(event)" role="button" tabindex="0">
+                <div class="cf-turnstile-left">
+                    <div id="cf-checkbox" class="cf-checkbox">
+                        <div class="cf-spinner"></div>
+                        <svg class="cf-check-svg" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+                            <polyline points="20 6 9 17 4 12"></polyline>
+                        </svg>
+                    </div>
+                    <span id="cf-status-label" class="cf-status-label">Verify you are human</span>
+                </div>
+                <div class="cf-turnstile-right">
+                    <div class="cf-logo-block">
+                        <svg class="cf-cloud-svg" viewBox="0 0 48 48" width="34" height="34">
+                            <path fill="#F6821F" d="M37.8 23.4c-.6-3.8-3.9-6.8-7.9-6.8-1.5 0-3 .5-4.1 1.3-.9-4.2-4.6-7.3-9-7.3-5.1 0-9.2 4.1-9.2 9.2 0 .5.1 1 .2 1.5C3.3 22.3 0 26 0 30.5 0 35.7 4.3 40 9.5 40h28.1c4.6 0 8.4-3.8 8.4-8.4 0-4.3-3.2-7.8-7.4-8.2h-.8z"/>
+                            <path fill="#FAAD3F" d="M34.5 40H9.5C4.3 40 0 35.7 0 30.5c0-4.5 3.3-8.2 7.8-9.2.1-.5.2-1 .2-1.5 0-5.1 4.1-9.2 9.2-9.2 4.4 0 8.1 3.1 9 7.3 1.1-.8 2.6-1.3 4.1-1.3 4 0 7.3 3 7.9 6.8.8.4 4.1.9 4.1 4.9.1 4.6-3.5 8.3-7.8 8.7z"/>
+                            <path fill="#FFF" d="M30.4 28.5c-.3-.2-.7-.3-1.1-.3H17.7c-.4 0-.8.2-1 .5-.2.3-.3.7-.1 1.1.2.5.7.9 1.3.9h11.4c.5 0 .9-.3 1.1-.7.2-.5.1-1.1-.1-1.5zm2.9-4.7c-.3-.2-.7-.3-1.1-.3H14.8c-.4 0-.8.2-1 .5-.2.3-.3.7-.1 1.1.2.5.7.9 1.3.9h17.2c.5 0 .9-.3 1.1-.7.2-.5 0-1.1-.2-1.5z"/>
+                        </svg>
+                        <div class="cf-text-links">
+                            <span class="cf-brand">Cloudflare</span>
+                            <div class="cf-links">
+                                <a href="https://www.cloudflare.com/privacypolicy/" target="_blank" rel="noopener" onclick="event.stopPropagation()">Privacy</a>
+                                <span>•</span>
+                                <a href="https://www.cloudflare.com/website-terms/" target="_blank" rel="noopener" onclick="event.stopPropagation()">Terms</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+        <!-- Explanatory note -->
+        <p class="cf-desc">
+            God Zilla pannel.shop needs to review the security of your connection before proceeding.
+        </p>
+
+        <!-- Technical & Security Meta Footer -->
+        <div class="cf-meta-footer">
+            <div class="cf-ray-info">
+                Ray ID: <code>b115e2d00bc7bdc0</code> • Your IP: <code>152.55.180.72</code>
+            </div>
+            <div class="cf-powered">
+                Performance &amp; security by <a href="https://www.cloudflare.com" target="_blank" rel="noopener">Cloudflare</a>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<style>
+/* CLOUDFLARE TURNSTILE VERIFICATION SCREEN STYLES */
+#cf-turnstile-wrapper {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100vw !important;
+    height: 100vh !important;
+    background: #0f141c !important;
+    z-index: 99999999 !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Helvetica Neue", sans-serif !important;
+    color: #d1d5db !important;
+    padding: 24px !important;
+    box-sizing: border-box !important;
+    transition: opacity 0.4s cubic-bezier(0.16, 1, 0.3, 1), transform 0.4s cubic-bezier(0.16, 1, 0.3, 1), visibility 0.4s ease !important;
+}
+
+#cf-turnstile-wrapper.cf-verified-hide {
+    opacity: 0 !important;
+    transform: scale(1.02) !important;
+    visibility: hidden !important;
+    pointer-events: none !important;
+    display: none !important;
+}
+
+.cf-turnstile-card {
+    width: 100% !important;
+    max-width: 460px !important;
+    margin: 0 auto !important;
+    text-align: left !important;
+}
+
+.cf-brand-header {
+    margin-bottom: 24px !important;
+}
+
+.cf-domain-badge {
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 6px !important;
+    background: rgba(255, 255, 255, 0.05) !important;
+    border: 1px solid rgba(255, 255, 255, 0.1) !important;
+    padding: 4px 10px !important;
+    border-radius: 20px !important;
+    font-size: 12px !important;
+    color: #94a3b8 !important;
+    font-weight: 500 !important;
+    margin-bottom: 14px !important;
+}
+
+.cf-lock-icon {
+    color: #10b981 !important;
+}
+
+.cf-title {
+    font-size: 26px !important;
+    font-weight: 700 !important;
+    color: #f8fafc !important;
+    margin: 0 0 8px 0 !important;
+    letter-spacing: -0.3px !important;
+    line-height: 1.25 !important;
+}
+
+.cf-subtitle {
+    font-size: 14px !important;
+    color: #94a3b8 !important;
+    margin: 0 !important;
+    line-height: 1.5 !important;
+}
+
+.cf-subtitle strong {
+    color: #e2e8f0 !important;
+}
+
+/* TURNSTILE WIDGET CONTAINER */
+.cf-turnstile-box {
+    width: 100% !important;
+    max-width: 320px !important;
+    height: 68px !important;
+    background: #1b2332 !important;
+    border: 1px solid #334155 !important;
+    border-radius: 6px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    padding: 0 16px !important;
+    box-sizing: border-box !important;
+    cursor: pointer !important;
+    user-select: none !important;
+    transition: all 0.2s ease !important;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25) !important;
+    margin: 20px 0 !important;
+}
+
+.cf-turnstile-box:hover {
+    border-color: #64748b !important;
+    background: #202a3c !important;
+}
+
+.cf-turnstile-left {
+    display: flex !important;
+    align-items: center !important;
+    gap: 12px !important;
+}
+
+.cf-checkbox {
+    width: 26px !important;
+    height: 26px !important;
+    min-width: 26px !important;
+    background: #0f141c !important;
+    border: 2px solid #64748b !important;
+    border-radius: 4px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    transition: all 0.2s ease !important;
+    position: relative !important;
+}
+
+.cf-turnstile-box:hover .cf-checkbox {
+    border-color: #94a3b8 !important;
+}
+
+/* Spinner inside checkbox */
+.cf-spinner {
+    display: none !important;
+    width: 18px !important;
+    height: 18px !important;
+    border: 2.5px solid rgba(246, 130, 31, 0.2) !important;
+    border-top-color: #f6821f !important;
+    border-right-color: #00d2ff !important;
+    border-radius: 50% !important;
+    animation: cfSpin 0.75s linear infinite !important;
+}
+
+.cf-check-svg {
+    display: none !important;
+    width: 16px !important;
+    height: 16px !important;
+    stroke: #ffffff !important;
+}
+
+/* STATES */
+.cf-turnstile-box.verifying .cf-checkbox {
+    border-color: transparent !important;
+    background: transparent !important;
+}
+.cf-turnstile-box.verifying .cf-spinner {
+    display: block !important;
+}
+
+.cf-turnstile-box.verified {
+    cursor: default !important;
+    border-color: rgba(16, 185, 129, 0.4) !important;
+}
+.cf-turnstile-box.verified .cf-checkbox {
+    background: #10b981 !important;
+    border-color: #10b981 !important;
+    box-shadow: 0 0 12px rgba(16, 185, 129, 0.45) !important;
+}
+.cf-turnstile-box.verified .cf-spinner {
+    display: none !important;
+}
+.cf-turnstile-box.verified .cf-check-svg {
+    display: block !important;
+    animation: cfCheckPop 0.3s cubic-bezier(0.16, 1, 0.3, 1) !important;
+}
+
+.cf-status-label {
+    font-size: 13.5px !important;
+    font-weight: 500 !important;
+    color: #f1f5f9 !important;
+    letter-spacing: -0.1px !important;
+}
+
+.cf-turnstile-box.verified .cf-status-label {
+    color: #10b981 !important;
+    font-weight: 600 !important;
+}
+
+/* RIGHT LOGO SECTION */
+.cf-turnstile-right {
+    display: flex !important;
+    align-items: center !important;
+}
+
+.cf-logo-block {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    text-align: center !important;
+}
+
+.cf-cloud-svg {
+    width: 32px !important;
+    height: 22px !important;
+}
+
+.cf-text-links {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    gap: 1px !important;
+    margin-top: -2px !important;
+}
+
+.cf-brand {
+    font-size: 10px !important;
+    font-weight: 700 !important;
+    color: #e2e8f0 !important;
+    letter-spacing: 0.3px !important;
+    line-height: 1 !important;
+}
+
+.cf-links {
+    font-size: 8.5px !important;
+    color: #64748b !important;
+    display: flex !important;
+    gap: 4px !important;
+    align-items: center !important;
+}
+
+.cf-links a {
+    color: #94a3b8 !important;
+    text-decoration: none !important;
+}
+.cf-links a:hover {
+    text-decoration: underline !important;
+}
+
+.cf-desc {
+    font-size: 12.5px !important;
+    color: #64748b !important;
+    line-height: 1.5 !important;
+    margin: 0 0 32px 0 !important;
+}
+
+/* FOOTER META */
+.cf-meta-footer {
+    border-top: 1px solid rgba(255, 255, 255, 0.08) !important;
+    padding-top: 20px !important;
+    font-size: 11.5px !important;
+    color: #64748b !important;
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 6px !important;
+}
+
+.cf-ray-info code {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace !important;
+    color: #94a3b8 !important;
+    background: rgba(255, 255, 255, 0.05) !important;
+    padding: 1px 4px !important;
+    border-radius: 3px !important;
+}
+
+.cf-powered a {
+    color: #94a3b8 !important;
+    text-decoration: none !important;
+}
+.cf-powered a:hover {
+    color: #f6821f !important;
+}
+
+@keyframes cfSpin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+@keyframes cfCheckPop {
+    0% { transform: scale(0.4); opacity: 0; }
+    80% { transform: scale(1.15); opacity: 1; }
+    100% { transform: scale(1); opacity: 1; }
+}
+
+@media (max-width: 480px) {
+    .cf-title { font-size: 22px !important; }
+    .cf-turnstile-box { max-width: 100% !important; }
+}
+</style>
+
+<script>
+/**
+ * CLOUDFLARE TURNSTILE CONTROLLER
+ */
+window.CFGate = {
+    isWorking: false,
+    isDone: false,
+
+    init: function() {
+        // Fast-path: Check if already verified in session or cookie
+        var hasCookie = document.cookie.indexOf('God Zilla _cf_verified=1') !== -1;
+        var hasStorage = false;
+        try {
+            hasStorage = (sessionStorage.getItem('God Zilla _cf_verified') === '1');
+        } catch(e) {}
+
+        if (hasCookie || hasStorage) {
+            this.dismissImmediate();
+            return;
+        }
+
+        // Prevent background scrolling while challenge is active
+        document.body.style.overflow = 'hidden';
+    },
+
+    handleClick: function(e) {
+        if (this.isWorking || this.isDone) return;
+        this.isWorking = true;
+
+        var box = document.getElementById('cf-turnstile-box');
+        var label = document.getElementById('cf-status-label');
+
+        if (box) box.classList.add('verifying');
+        if (label) label.textContent = 'Verifying...';
+
+        // Check for basic headless automation markers
+        var isAutomation = navigator.webdriver || false;
+        var verifyDelay = isAutomation ? 2500 : 1200;
+
+        var self = this;
+        setTimeout(function() {
+            self.completeSuccess();
+        }, verifyDelay);
+    },
+
+    onOfficialSuccess: function(token) {
+        this.completeSuccess();
+    },
+
+    completeSuccess: function() {
+        this.isWorking = false;
+        this.isDone = true;
+
+        var box = document.getElementById('cf-turnstile-box');
+        var label = document.getElementById('cf-status-label');
+
+        if (box) {
+            box.classList.remove('verifying');
+            box.classList.add('verified');
+        }
+        if (label) label.textContent = 'Verification successful';
+
+        // Store verification in cookie and session
+        try {
+            sessionStorage.setItem('God Zilla _cf_verified', '1');
+        } catch(e) {}
+        document.cookie = "God Zilla _cf_verified=1; path=/; max-age=43200; SameSite=Lax";
+
+        // Inform backend asynchronously
+        try {
+            fetch('api/verify_human.php', { method: 'POST' }).catch(function(){});
+        } catch(e) {}
+
+        // Dismiss gate smoothly after 400ms
+        var self = this;
+        setTimeout(function() {
+            self.dismissSmooth();
+        }, 400);
+    },
+
+    dismissSmooth: function() {
+        var wrap = document.getElementById('cf-turnstile-wrapper');
+        if (wrap) {
+            wrap.style.opacity = '0';
+            wrap.style.transform = 'scale(1.02)';
+            setTimeout(function() {
+                wrap.classList.add('cf-verified-hide');
+                wrap.style.display = 'none';
+                document.body.style.overflow = '';
+                self.startVideo();
+            }, 380);
+        } else {
+            document.body.style.overflow = '';
+            this.startVideo();
+        }
+    },
+
+    dismissImmediate: function() {
+        var wrap = document.getElementById('cf-turnstile-wrapper');
+        if (wrap) {
+            wrap.classList.add('cf-verified-hide');
+            wrap.style.display = 'none';
+        }
+        document.body.style.overflow = '';
+        this.startVideo();
+    },
+
+    startVideo: function() {
+        var vid = document.getElementById('cinematic-bg-video');
+        if (vid && vid.paused) {
+            vid.play().catch(function(){});
+        }
+    }
+};
+
+// Immediate invocation
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', function() {
+        CFGate.init();
+    });
+} else {
+    CFGate.init();
+}
+</script>
+
+    <!-- Page Transition Preloader -->
+    <div id="page-preloader">
+        <div class="preloader-box" style="text-align:center; display:flex; flex-direction:column; align-items:center;">
+            <div class="preloader-avatar">
+                <img src="assets/images/logo.png" alt="God Zilla  MODS" style="width:66px; height:66px; max-width:66px; max-height:66px; border-radius:50%; object-fit:cover; display:block; margin:0 auto;">
+            </div>
+            <div class="preloader-title" style="font-size:18px; font-weight:900; letter-spacing:2px; color:#fff; text-transform:uppercase; margin-bottom:4px;">
+                <span style="color:#00ff88;">God Zilla </span> MODS STORE
+            </div>
+            <div class="preloader-sub" style="font-size:11px; font-weight:700; color:#8899a6; letter-spacing:1px; text-transform:uppercase; margin-bottom:14px;">Premium Gaming Panels</div>
+            <div class="preloader-line" style="width:120px; height:3px; background:rgba(255,255,255,0.1); border-radius:3px; overflow:hidden; position:relative;">
+                <div class="preloader-bar" style="position:absolute; top:0; left:0; height:100%; width:45%; background:linear-gradient(90deg, transparent, #00ff88, transparent);"></div>
+            </div>
+        </div>
+    </div>
+    <script>
+        // Failsafe: Preloader automatically dismisses within 500ms max
+        (function() {
+            var hide = function() {
+                var p = document.getElementById('page-preloader');
+                if (p && !p.classList.contains('loaded')) {
+                    p.style.opacity = '0';
+                    setTimeout(function() {
+                        p.classList.add('loaded');
+                        p.style.display = 'none';
+                    }, 200);
+                }
+            };
+            setTimeout(hide, 500);
+            window.addEventListener('DOMContentLoaded', hide);
+            window.addEventListener('load', hide);
+            window.addEventListener('pageshow', hide);
+        })();
+    </script>
+
+    <!-- Toast Notifications Container -->
+    <div id="toast-container"></div>
+
+    <!-- Cinematic Liquid Video Background (Autoplay, Muted, Loop, Fullscreen Coverage) -->
+    <div id="cinematic-bg-wrap" class="cinematic-bg-container" aria-hidden="true" style="position:fixed; inset:0; width:100vw; height:100vh; z-index:-2; overflow:hidden; pointer-events:none; background:#010603;">
+        <video id="cinematic-bg-video" class="cinematic-bg-video" autoplay loop muted playsinline webkit-playsinline preload="auto" style="position:absolute; inset:0; width:100%; height:100%; object-fit:cover; pointer-events:none;">
+            <source src="assets/videos/cinematic-bg.mp4?v=1795549846" type="video/mp4">
+        </video>
+        <div class="cinematic-bg-overlay" style="position:absolute; inset:0; pointer-events:none;"></div>
+    </div>
+
+    <!-- Top Navigation -->
+    <header class="top-nav">
+        <div class="container nav-content">
+            <a href="shop" onclick="App.navigate('shop', event)" class="brand" title="God Zilla  MODS STORE">
+                <div class="brand-logo">
+                    <img src="assets/images/logo.png" alt="God Zilla  MODS" style="width:100%; height:100%; object-fit:cover; display:block;">
+                </div>
+                <div class="brand-name"><span class="store-name-text"><span style="color:var(--g);">God Zilla </span> MODS STORE</span></div>
+            </a>
+
+            <!-- Desktop Nav Links -->
+            <nav class="desktop-nav-links">
+                <a href="shop" data-tab="shop" onclick="App.navigate('shop', event)" class="nav-item active">Shop</a>
+                <a href="vip-injectors" data-tab="vip-injectors" onclick="App.navigate('vip-injectors', event)" class="nav-item ">VIP Injectors</a>
+                <a href="root-panels" data-tab="root-panels" onclick="App.navigate('root-panels', event)" class="nav-item ">Root Panels</a>
+                <a href="non-root-panels" data-tab="non-root-panels" onclick="App.navigate('non-root-panels', event)" class="nav-item ">Non-Root</a>
+                <a href="ios-bypass" data-tab="ios-bypass" onclick="App.navigate('ios-bypass', event)" class="nav-item ">iOS / Bypass</a>
+                <a href="my-keys" data-tab="my-keys" onclick="App.navigate('keys', event)" class="nav-item ">My Keys</a>
+                <a href="wallet-ledger" data-tab="wallet-ledger" onclick="App.navigate('history', event)" class="nav-item ">History</a>
+                <a href="api-access" data-tab="api" onclick="App.navigate('api', event)" class="nav-item ">API</a>
+                <a href="reseller-benefits" data-tab="reseller-benefits" onclick="App.navigate('reseller-benefits', event)" class="nav-item " style="color:#ffb703; font-weight:800;">👑 Reseller VIP</a>
+                <a href="support" data-tab="support" onclick="App.navigate('support', event)" class="nav-item ">Support</a>
+            </nav>
+
+            <div class="nav-actions">
+                <!-- Real-Time 2-Minute Price Auto-Sync Timer Pill -->
+                <div id="price-sync-pill" class="price-sync-pill" onclick="App.triggerManualPriceSync()" title="Auto-Sync: Live supplier rates refresh every 2 minutes. Click to sync instantly.">
+                    <span class="sync-dot"></span>
+                    <span class="sync-icon">⚡</span>
+                    <span class="sync-label">Sync:</span>
+                    <span id="price-sync-countdown" class="sync-time">02:00</span>
+                </div>
+
+                <!-- Ambient Video Music / Sound ON/OFF Toggle Button -->
+                <button id="bg-sound-toggle" class="sound-toggle-btn sound-muted" type="button" onclick="App.toggleBackgroundSound()" title="Sound Muted (Click to Unmute)" aria-label="Toggle Sound">
+                    <span class="sound-icon-wrap">
+                        <svg class="icon sound-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+                            <line x1="23" y1="9" x2="17" y2="15"></line>
+                            <line x1="17" y1="9" x2="23" y2="15"></line>
+                        </svg>
+                    </span>
+                    <span class="sound-btn-text">Music OFF</span>
+                </button>
+
+                <!-- User dropdown / Auth Container (Hydrated by App.js) -->
+                <div id="nav-auth-container">
+                    <button class="btn btn-outline btn-sm" onclick="App.openAuthModal('login')">
+                        <svg class="icon icon-sm" viewBox="0 0 24 24"><path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+                        Login
+                    </button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Page Content Starts -->
+    <main class="container" style="padding-top: 18px; min-height: 75vh;">
+
+<!-- 1. VIEW: SHOP (ALL PANELS, VIP INJECTORS, ROOT, NON-ROOT, IOS) -->
+<section class="spa-view-section active" id="view-shop">
+    <div class="section-header">
+        <div class="section-title">
+            <svg class="icon" viewBox="0 0 24 24"><path d="m2 7 4.41-4.41A2 2 0 0 1 7.83 2h8.34a2 2 0 0 1 1.42.59L22 7"/><path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"/><path d="M15 22v-4a2 2 0 0 0-2-2h-2a2 2 0 0 0-2 2v4"/><path d="M2 7h20"/></svg>
+            <span>All Premium</span> Gaming Panels
+        </div>
+        
+        <!-- Real-time Live Search -->
+        <div class="search-bar">
+            <svg class="icon search-icon" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+            <input type="search"
+                   id="search-panels-input"
+                   name="panel_catalog_search"
+                   placeholder="Search panels, aimbot, injectors..."
+                   autocomplete="one-time-code"
+                   autocorrect="off"
+                   autocapitalize="off"
+                   spellcheck="false"
+                   data-lpignore="true"
+                   data-form-type="other">
+        </div>
+
+        <!-- Category Filter Chips -->
+        <div class="chips-row" id="sections-chips-container"></div>
+    </div>
+
+    <!-- VIP Guest Banner (Shown when not logged in) -->
+    <div id="shop-guest-auth-banner" class="hidden" style="margin-bottom:20px;"></div>
+
+    <!-- Products Grid Hydrated by App.js -->
+    <div class="products-grid" id="products-grid-container">
+        <div class="empty-state" style="grid-column: 1/-1;">
+            <div class="spinner"></div>
+            <p>Loading premium gaming panels...</p>
+        </div>
+    </div>
+</section>
+
+<!-- 2. VIEW: DELIVERED KEYS -->
+<section class="spa-view-section " id="view-keys">
+    <div class="section-header">
+        <div class="section-title">
+            <svg class="icon" viewBox="0 0 24 24"><circle cx="7.5" cy="15.5" r="5.5"/><path d="m21 2-9.6 9.6"/><path d="m15.5 7.5 3 3L22 7l-3-3"/></svg>
+            <span>My Delivered</span> Keys
+        </div>
+        <p style="font-size:13px; color:var(--tx-muted);">All active and purchased license keys with instant copy, direct download links, and setup guides.</p>
+    </div>
+
+    <!-- Delivered Keys List Hydrated by App.js -->
+    <div id="my-keys-list" style="min-height:300px;">
+        <div class="empty-state">
+            <div class="spinner"></div>
+            <p>Loading your delivered keys...</p>
+        </div>
+    </div>
+</section>
+
+<!-- 3. VIEW: WALLET / RECHARGE BALANCE -->
+<section class="spa-view-section " id="view-wallet">
+    <div class="section-header">
+        <div class="section-title">
+            <svg class="icon" viewBox="0 0 24 24"><path d="M19 7V4a1 1 0 0 0-1-1H5a2 2 0 0 0 0 4h15a1 1 0 0 1 1 1v4h-3a2 2 0 0 0 0 4h3a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1"/><path d="M3 5v14a2 2 0 0 0 2 2h15a1 1 0 0 0 1-1v-4"/></svg>
+            <span>Recharge</span> Wallet
+        </div>
+        <p style="font-size:13px; color:var(--tx-muted);">Instant automatic UPI payment verification &amp; 24/7 automated wallet credit.</p>
+    </div>
+
+    <!-- Active Payment (QR Code Container) -->
+    <div id="payment-active-container" class="hidden"></div>
+
+    <!-- Logged out guest recharge card -->
+    <div id="wallet-guest-card" class="glass hidden" style="max-width:480px; margin:0 auto; padding:24px; border-radius:22px; text-align:center;">
+        <div class="empty-state" style="padding:48px 20px;">
+            <svg class="icon icon-xl" viewBox="0 0 24 24" style="color:var(--g); width:48px; height:48px; margin-bottom:14px;"><path d="M19 7V4a1 1 0 0 0-1-1H5a2 2 0 0 0 0 4h15a1 1 0 0 1 1 1v4h-3a2 2 0 0 0 0 4h3a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1"/><path d="M3 5v14a2 2 0 0 0 2 2h15a1 1 0 0 0 1-1v-4"/></svg>
+            <h3 style="font-size:18px; font-weight:800; color:#fff; margin-bottom:8px;">Sign In to Recharge Wallet</h3>
+            <p style="font-size:13px; color:var(--tx-muted); max-width:400px; margin:0 auto 20px; line-height:1.5;">Recharge your store balance with instant automated UPI credit 24/7.</p>
+            <button type="button" class="btn btn-primary" onclick="App.openAuthModal('login')" style="padding:10px 24px; font-weight:800;">
+                Login to Add Funds
+            </button>
+        </div>
+    </div>
+
+    <!-- Payment Form Container -->
+    <div id="payment-form-container" class="glass" style="max-width:480px; margin:0 auto; padding:26px; border-radius:22px;">
+        <div style="background:linear-gradient(135deg, rgba(0, 255, 136, 0.12), rgba(0, 210, 255, 0.05)); border:1px solid rgba(0, 255, 136, 0.35); box-shadow:inset 0 1px 1.5px rgba(255, 255, 255, 0.35), 0 0 18px rgba(0, 255, 136, 0.2); border-radius:16px; padding:18px; margin-bottom:22px; text-align:center;">
+            <span style="font-size:11.5px; color:var(--tx-muted); text-transform:uppercase; font-weight:800; letter-spacing:1px;">Current Available Balance</span>
+            <div style="font-size:32px; font-weight:900; color:var(--g); text-shadow:0 0 16px rgba(0,255,136,0.4);" id="add-funds-current-balance">₹0.00</div>
+        </div>
+
+        <div class="form-group">
+            <label class="form-label">Select Quick Amount</label>
+            <div style="display:grid; grid-template-columns:repeat(3, 1fr); gap:8px; margin-bottom:12px;">
+                <button type="button" class="btn btn-outline btn-sm" onclick="App.initiateDeposit(50)">₹50</button>
+                <button type="button" class="btn btn-outline btn-sm" onclick="App.initiateDeposit(100)">₹100</button>
+                <button type="button" class="btn btn-outline btn-sm" onclick="App.initiateDeposit(200)">₹200</button>
+                <button type="button" class="btn btn-outline btn-sm" onclick="App.initiateDeposit(500)">₹500</button>
+                <button type="button" class="btn btn-outline btn-sm" onclick="App.initiateDeposit(1000)">₹1000</button>
+                <button type="button" class="btn btn-outline btn-sm" onclick="App.initiateDeposit(2000)">₹2000</button>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="form-label">Or Custom Amount (₹)</label>
+            <input type="number" id="deposit-amount-input" class="form-input" placeholder="e.g. 150" min="50" max="10000">
+        </div>
+
+        <button type="button" class="btn btn-primary btn-block" id="btn-create-deposit" onclick="App.initiateDeposit()">
+            <svg class="icon" viewBox="0 0 24 24"><path d="M5 12h14"/><path d="M12 5v14"/></svg>
+            PAY VIA UPI (AUTOMATIC)
+        </button>
+    </div>
+</section>
+
+<!-- 4. VIEW: TRANSACTION HISTORY / AUDIT LEDGER -->
+<section class="spa-view-section " id="view-history">
+    <div class="section-header">
+        <div class="section-title">
+            <svg class="icon" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>
+            <span>Transaction</span> History
+        </div>
+        <p style="font-size:13px; color:var(--tx-muted);">Complete audit trail of all wallet deposits, key purchases, and referral commission bonuses.</p>
+    </div>
+
+    <!-- Transaction List Hydrated by App.js -->
+    <div id="wallet-tx-list" style="min-height:300px;">
+        <div class="empty-state">
+            <div class="spinner"></div>
+            <p>Loading history...</p>
+        </div>
+    </div>
+</section>
+
+<!-- 5. VIEW: PROFILE & ACCOUNT HUB -->
+<section class="spa-view-section " id="view-profile">
+    <div class="section-header" style="margin-bottom:20px;">
+        <div class="section-title">
+            <svg class="icon" viewBox="0 0 24 24"><path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+            <span>Customer</span> Profile &amp; Hub
+        </div>
+    </div>
+
+    <!-- 1. Guest Authentication State for Profile -->
+    <div id="profile-guest-card" class="glass hidden" style="max-width:540px; margin:0 auto; padding:24px; text-align:center;">
+        <div class="empty-state" style="padding:48px 20px;">
+            <svg class="icon icon-xl" viewBox="0 0 24 24" style="color:var(--g); width:48px; height:48px; margin-bottom:14px;"><path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+            <h3 style="font-size:18px; font-weight:800; color:#fff; margin-bottom:8px;">Sign In to Customer Hub</h3>
+            <p style="font-size:13px; color:var(--tx-muted); max-width:420px; margin:0 auto 20px; line-height:1.5;">Sign in with your email and password to access your customer profile, wallet balance, delivered keys, and transaction history.</p>
+            <div style="display:flex; justify-content:center; gap:12px; flex-wrap:wrap;">
+                <button type="button" class="btn btn-primary" onclick="App.openAuthModal('login')" style="padding:10px 24px; font-weight:800;">
+                    Login to Account
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- 2. Logged In User Profile Card -->
+    <div class="glass" style="max-width:540px; margin:0 auto; padding:24px;" id="profile-container">
+        
+        <!-- User Profile Card Header -->
+        <div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:20px; flex-wrap:wrap; gap:12px; border-bottom:1px solid var(--line); padding-bottom:18px;">
+            <div style="display:flex; align-items:center; gap:14px;">
+                <div style="width:54px; height:54px; border-radius:50%; background:rgba(0,255,136,0.15); border:1.5px solid var(--g); display:flex; align-items:center; justify-content:center; color:var(--g); box-shadow:0 0 15px rgba(0,255,136,0.2);">
+                    <svg class="icon icon-lg" viewBox="0 0 24 24"><path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+                </div>
+                <div>
+                    <div style="font-weight:900; font-size:17px; color:#fff;" id="profile-email">Loading...</div>
+                    <div style="display:flex; align-items:center; gap:6px; margin-top:2px;">
+                        <span style="display:inline-block; width:7px; height:7px; border-radius:50%; background:var(--g);" id="profile-role-dot"></span>
+                        <span style="font-size:12px; color:var(--g); font-weight:700;" id="profile-role-badge">Verified Customer</span>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <button class="btn btn-outline btn-sm" onclick="App.logout()" style="color:var(--red); border-color:rgba(255,51,102,0.3); font-size:12px;">
+                    <svg class="icon icon-sm" viewBox="0 0 24 24"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/><polyline points="16 17 21 12 16 7"/><line x1="21" x2="9" y1="12" y2="12"/></svg>
+                    Logout
+                </button>
+            </div>
+        </div>
+
+        <!-- Balance & Spent Metrics -->
+        <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px; margin-bottom:24px;">
+            <div style="background:linear-gradient(135deg, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0.02) 40%, rgba(0, 0, 0, 0.2) 100%); backdrop-filter:blur(14px); -webkit-backdrop-filter:blur(14px); padding:16px; border-radius:14px; border:1px solid rgba(0,255,136,0.35); box-shadow:inset 0 1px 1px rgba(255,255,255,0.3);">
+                <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:4px;">
+                    <span style="font-size:11px; color:var(--tx-muted); text-transform:uppercase; font-weight:800; letter-spacing:0.5px;">Wallet Balance</span>
+                    <button type="button" class="btn btn-primary btn-sm" onclick="App.navigate('wallet', event)" style="padding:2px 8px; font-size:11px; font-weight:800;">+ Top Up</button>
+                </div>
+                <div style="font-size:24px; font-weight:900; color:var(--g); text-shadow:0 0 12px rgba(0,255,136,0.35);" id="profile-balance">₹0.00</div>
+            </div>
+            <div style="background:linear-gradient(135deg, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0.02) 40%, rgba(0, 0, 0, 0.2) 100%); backdrop-filter:blur(14px); -webkit-backdrop-filter:blur(14px); padding:16px; border-radius:14px; border:1px solid rgba(255,255,255,0.18); box-shadow:inset 0 1px 1px rgba(255,255,255,0.25);">
+                <span style="font-size:11px; color:var(--tx-muted); text-transform:uppercase; font-weight:800; letter-spacing:0.5px; display:block; margin-bottom:4px;">Total Spent</span>
+                <div style="font-size:24px; font-weight:900; color:#fff;" id="profile-spent">₹0.00</div>
+            </div>
+        </div>
+
+        <!-- Navigation Hub Shortcuts -->
+        <div style="margin-bottom:24px;">
+            <div style="font-size:11px; text-transform:uppercase; letter-spacing:1px; color:var(--tx-dim); font-weight:800; margin-bottom:10px;">
+                ACCOUNT NAVIGATION
+            </div>
+            <div style="display:flex; flex-direction:column; gap:10px;">
+                
+                <!-- My Keys -->
+                <a href="my-keys" onclick="App.navigate('keys', event)" class="btn btn-outline" style="justify-content:space-between; padding:14px 16px; background:rgba(255, 255, 255, 0.05); backdrop-filter:blur(14px); -webkit-backdrop-filter:blur(14px); border:1px solid rgba(255, 255, 255, 0.16); box-shadow:inset 0 1px 1px rgba(255,255,255,0.2); text-align:left; border-radius:14px;">
+                    <div style="display:flex; align-items:center; gap:12px;">
+                        <div style="width:36px; height:36px; border-radius:10px; background:rgba(0,255,136,0.14); border:1px solid rgba(0,255,136,0.4); display:flex; align-items:center; justify-content:center; color:var(--g); box-shadow:0 0 12px rgba(0,255,136,0.2);">
+                            <svg class="icon" viewBox="0 0 24 24"><circle cx="7.5" cy="15.5" r="5.5"/><path d="m21 2-9.6 9.6"/><path d="m15.5 7.5 3 3L22 7l-3-3"/></svg>
+                        </div>
+                        <div>
+                            <b style="color:#fff; font-size:14px; display:block;">My Keys</b>
+                            <span style="font-size:12px; color:var(--tx-muted);">View all purchased &amp; active licenses with instant copy</span>
+                        </div>
+                    </div>
+                    <div style="color:var(--g); font-size:18px;">&rarr;</div>
+                </a>
+
+                <!-- History -->
+                <a href="wallet-ledger" onclick="App.navigate('history', event)" class="btn btn-outline" style="justify-content:space-between; padding:14px 16px; background:rgba(255, 255, 255, 0.05); backdrop-filter:blur(14px); -webkit-backdrop-filter:blur(14px); border:1px solid rgba(255, 255, 255, 0.16); box-shadow:inset 0 1px 1px rgba(255,255,255,0.2); text-align:left; border-radius:14px;">
+                    <div style="display:flex; align-items:center; gap:12px;">
+                        <div style="width:36px; height:36px; border-radius:10px; background:rgba(0,240,255,0.14); border:1px solid rgba(0,240,255,0.4); display:flex; align-items:center; justify-content:center; color:var(--cyan); box-shadow:0 0 12px rgba(0,240,255,0.2);">
+                            <svg class="icon" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>
+                        </div>
+                        <div>
+                            <b style="color:#fff; font-size:14px; display:block;">History</b>
+                            <span style="font-size:12px; color:var(--tx-muted);">Deposit records, key purchases, and ledger history</span>
+                        </div>
+                    </div>
+                    <div style="color:var(--cyan); font-size:18px;">&rarr;</div>
+                </a>
+
+                <!-- Refer & Earn -->
+                <a href="referral" onclick="App.navigate('referral', event)" class="btn btn-outline" style="justify-content:space-between; padding:14px 16px; background:rgba(255, 255, 255, 0.05); backdrop-filter:blur(14px); -webkit-backdrop-filter:blur(14px); border:1px solid rgba(255, 255, 255, 0.16); box-shadow:inset 0 1px 1px rgba(255,255,255,0.2); text-align:left; border-radius:14px;">
+                    <div style="display:flex; align-items:center; gap:12px;">
+                        <div style="width:36px; height:36px; border-radius:10px; background:rgba(255,183,3,0.14); border:1px solid rgba(255,183,3,0.4); display:flex; align-items:center; justify-content:center; color:var(--yellow); box-shadow:0 0 12px rgba(255,183,3,0.2);">
+                            <svg class="icon" viewBox="0 0 24 24"><rect x="3" y="8" width="18" height="4" rx="1"/><path d="M12 8v13"/><path d="M19 12v7a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2v-7"/></svg>
+                        </div>
+                        <div>
+                            <b style="color:#fff; font-size:14px; display:block;">Refer &amp; Earn</b>
+                            <span style="font-size:12px; color:var(--tx-muted);">Earn 5% automatic commission on every friend's order</span>
+                        </div>
+                    </div>
+                    <div style="color:var(--yellow); font-size:18px;">&rarr;</div>
+                </a>
+
+                <!-- VIP Reseller Benefits & Wholesale Pricing -->
+                <a href="reseller-benefits" onclick="App.navigate('reseller-benefits', event)" class="btn btn-outline" style="justify-content:space-between; padding:14px 16px; background:rgba(255, 183, 3, 0.08); backdrop-filter:blur(14px); -webkit-backdrop-filter:blur(14px); border:1px solid rgba(255, 183, 3, 0.35); box-shadow:inset 0 1px 1px rgba(255,255,255,0.2); text-align:left; border-radius:14px;">
+                    <div style="display:flex; align-items:center; gap:12px;">
+                        <div style="width:36px; height:36px; border-radius:10px; background:rgba(255,183,3,0.18); border:1px solid rgba(255,183,3,0.5); display:flex; align-items:center; justify-content:center; color:#ffb703; font-size:18px; box-shadow:0 0 12px rgba(255,183,3,0.25);">
+                            👑
+                        </div>
+                        <div>
+                            <b style="color:#fff; font-size:14px; display:flex; align-items:center; gap:6px;">
+                                Reseller Wholesale Benefits
+                                <span class="badge" style="background:rgba(255,183,3,0.2); color:#ffb703; font-size:10px; padding:2px 6px; border-radius:6px; font-weight:800;">40% OFF</span>
+                            </b>
+                            <span style="font-size:12px; color:var(--tx-muted);">Wholesale prices, automated bot API, and 24/7 priority support</span>
+                        </div>
+                    </div>
+                    <div style="color:#ffb703; font-size:18px;">&rarr;</div>
+                </a>
+
+                <!-- Reseller API Access & Integration -->
+                <a href="api-access" onclick="App.navigate('api', event)" class="btn btn-outline" style="justify-content:space-between; padding:14px 16px; background:rgba(255, 255, 255, 0.05); backdrop-filter:blur(14px); -webkit-backdrop-filter:blur(14px); border:1px solid rgba(0, 240, 255, 0.3); box-shadow:inset 0 1px 1px rgba(255,255,255,0.2); text-align:left; border-radius:14px;">
+                    <div style="display:flex; align-items:center; gap:12px;">
+                        <div style="width:36px; height:36px; border-radius:10px; background:rgba(0,240,255,0.15); border:1px solid rgba(0,240,255,0.5); display:flex; align-items:center; justify-content:center; color:#00f0ff; box-shadow:0 0 12px rgba(0,240,255,0.25);">
+                            <svg class="icon" viewBox="0 0 24 24"><polygon points="12 2 2 7 12 12 22 7 12 2"></polygon><polyline points="2 17 12 22 22 17"></polyline><polyline points="2 12 12 17 22 12"></polyline></svg>
+                        </div>
+                        <div>
+                            <b style="color:#fff; font-size:14px; display:flex; align-items:center; gap:6px;">
+                                Reseller API &amp; Password
+                                <span class="badge" style="background:rgba(0,240,255,0.2); color:#00f0ff; font-size:10px; padding:2px 6px; border-radius:6px; font-weight:800;">AUTO</span>
+                            </b>
+                            <span style="font-size:12px; color:var(--tx-muted);">Automated bot purchasing, API keys, and code docs</span>
+                        </div>
+                    </div>
+                    <div style="color:#00f0ff; font-size:18px;">&rarr;</div>
+                </a>
+
+                <!-- Customer Support & FAQ -->
+                <a href="support" onclick="App.navigate('support', event)" class="btn btn-outline" style="justify-content:space-between; padding:14px 16px; background:rgba(255, 255, 255, 0.05); backdrop-filter:blur(14px); -webkit-backdrop-filter:blur(14px); border:1px solid rgba(255, 255, 255, 0.16); box-shadow:inset 0 1px 1px rgba(255,255,255,0.2); text-align:left; border-radius:14px;">
+                    <div style="display:flex; align-items:center; gap:12px;">
+                        <div style="width:36px; height:36px; border-radius:10px; background:rgba(0,255,136,0.14); border:1px solid rgba(0,255,136,0.4); display:flex; align-items:center; justify-content:center; color:var(--g); box-shadow:0 0 12px rgba(0,255,136,0.2);">
+                            <svg class="icon" viewBox="0 0 24 24"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+                        </div>
+                        <div>
+                            <b style="color:#fff; font-size:14px; display:block;">Customer Support &amp; FAQ</b>
+                            <span style="font-size:12px; color:var(--tx-muted);">24/7 Telegram agent, live tickets, and setup tutorials</span>
+                        </div>
+                    </div>
+                    <div style="color:var(--g); font-size:18px;">&rarr;</div>
+                </a>
+
+            </div>
+        </div>
+
+        <!-- Security & Change Password -->
+        <details style="background:rgba(255, 255, 255, 0.05); backdrop-filter:blur(14px); -webkit-backdrop-filter:blur(14px); border:1px solid rgba(255, 255, 255, 0.18); box-shadow:inset 0 1px 1px rgba(255,255,255,0.2); border-radius:14px; padding:14px 16px; margin-bottom:16px;">
+            <summary style="font-size:13.5px; font-weight:800; color:#fff; cursor:pointer; display:flex; align-items:center; justify-content:space-between;">
+                <span style="display:flex; align-items:center; gap:8px;">
+                    <svg class="icon icon-sm" viewBox="0 0 24 24" style="color:var(--g);"><rect width="18" height="11" x="3" y="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
+                    Security &amp; Change Password
+                </span>
+                <span style="font-size:12px; color:var(--tx-dim);">&#9660;</span>
+            </summary>
+            <form id="form-user-change-password" autocomplete="off" onsubmit="event.preventDefault(); App.changePassword();" style="margin-top:16px; padding-top:12px; border-top:1px solid rgba(255,255,255,0.06);">
+                <div class="form-group">
+                    <label class="form-label">Current Password</label>
+                    <input type="password" id="old-password" class="form-input" placeholder="•••••••" autocomplete="current-password">
+                </div>
+                <div class="form-group">
+                    <label class="form-label">New Password</label>
+                    <input type="password" id="new-password" class="form-input" placeholder="At least 6 characters" autocomplete="new-password">
+                </div>
+                <button type="submit" class="btn btn-outline btn-block btn-sm">
+                    Update Password
+                </button>
+            </form>
+        </details>
+
+    </div>
+</section>
+
+<!-- 6. VIEW: REFERRAL & COMMISSIONS -->
+<section class="spa-view-section " id="view-referral">
+    <div class="section-header">
+        <div class="section-title">
+            <svg class="icon" viewBox="0 0 24 24"><rect x="3" y="8" width="18" height="4" rx="1"/><path d="M12 8v13"/><path d="M19 12v7a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2v-7"/></svg>
+            <span>Refer</span> &amp; Earn Commissions
+        </div>
+        <p style="font-size:13px; color:var(--tx-muted);">Invite your gaming friends and earn lifetime commissions automatically credited to your wallet.</p>
+    </div>
+
+    <!-- 1. Guest Authentication State for Referral -->
+    <div id="referral-guest-card" class="glass hidden" style="max-width:540px; margin:0 auto; padding:24px; text-align:center;">
+        <div class="empty-state" style="padding:48px 20px;">
+            <svg class="icon icon-xl" viewBox="0 0 24 24" style="color:#ffb703; width:48px; height:48px; margin-bottom:14px;"><rect x="3" y="8" width="18" height="4" rx="1"/><path d="M12 8v13"/><path d="M19 12v7a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2v-7"/></svg>
+            <h3 style="font-size:18px; font-weight:800; color:#fff; margin-bottom:8px;">Referral &amp; Commission Hub</h3>
+            <p style="font-size:13px; color:var(--tx-muted); max-width:420px; margin:0 auto 20px; line-height:1.5;">Sign in to generate your unique referral link, track invited members, and earn lifetime commissions.</p>
+            <div style="display:flex; justify-content:center; gap:12px; flex-wrap:wrap;">
+                <button type="button" class="btn btn-primary" onclick="App.openAuthModal('login')" style="padding:10px 24px; font-weight:800;">
+                    Login to View Referral Link
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- 2. Logged In User Referral Container -->
+    <div class="glass" style="max-width:620px; margin:0 auto; padding:24px;" id="referral-container">
+        <!-- Tier Progression Card -->
+        <div id="ref-tier-progress-card" style="background:linear-gradient(135deg, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0.02) 40%, rgba(0, 0, 0, 0.3) 100%); backdrop-filter:blur(16px); -webkit-backdrop-filter:blur(16px); border:1px solid rgba(255,255,255,0.18); box-shadow:inset 0 1px 1px rgba(255,255,255,0.25), 0 4px 20px rgba(0,0,0,0.3); border-radius:16px; padding:20px; margin-bottom:20px;">
+            <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px;">
+                <span style="font-size:12px; font-weight:800; color:var(--tx-muted); text-transform:uppercase; letter-spacing:0.8px;">Your Membership Tier</span>
+                <span id="ref-tier-badge" class="badge" style="font-size:12px; font-weight:800; padding:5px 12px; border-radius:20px;">Loading...</span>
+            </div>
+            
+            <p id="ref-tier-msg" style="font-size:13px; color:#e0e0e0; margin-bottom:14px; line-height:1.5;">
+                Loading tier qualification status...
+            </p>
+
+            <!-- Progress Bar toward Next Tier -->
+            <div id="ref-progress-wrap" style="display:none; margin-bottom:12px;">
+                <div style="display:flex; justify-content:space-between; font-size:12px; margin-bottom:6px;">
+                    <span style="color:var(--tx-muted); font-weight:700;">Pro Reseller Progress</span>
+                    <span id="ref-progress-text" style="color:#00d2ff; font-weight:800;">0 / 3 Qualified</span>
+                </div>
+                <div style="background:rgba(255,255,255,0.1); border-radius:10px; height:8px; overflow:hidden; position:relative;">
+                    <div id="ref-progress-bar" style="background:linear-gradient(90deg, #00d2ff, #00ff88); height:100%; width:0%; border-radius:10px; transition:width 0.4s ease;"></div>
+                </div>
+            </div>
+
+            <div id="ref-tier-action-wrap" style="display:none;">
+                <button type="button" class="btn btn-primary btn-sm" onclick="App.openPaymentModal()" style="font-weight:800; padding:8px 18px;">
+                    💳 Add ₹50 to Unlock Reseller Tier
+                </button>
+            </div>
+        </div>
+
+        <!-- Referral Metrics (4 Key Stats) -->
+        <div style="display:grid; grid-template-columns:repeat(4, 1fr); gap:8px; margin-bottom:20px; text-align:center;">
+            <div style="background:linear-gradient(135deg, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0.02) 40%, rgba(0, 0, 0, 0.2) 100%); border:1px solid rgba(255,255,255,0.15); border-radius:12px; padding:12px 6px;">
+                <span style="font-size:10px; color:var(--tx-muted); text-transform:uppercase; font-weight:800; display:block; margin-bottom:4px;">Total Invited</span>
+                <div style="font-size:18px; font-weight:900; color:#fff;" id="ref-count-val">0</div>
+            </div>
+            <div style="background:linear-gradient(135deg, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0.02) 40%, rgba(0, 0, 0, 0.2) 100%); border:1px solid rgba(0,255,136,0.3); border-radius:12px; padding:12px 6px;">
+                <span style="font-size:10px; color:var(--tx-muted); text-transform:uppercase; font-weight:800; display:block; margin-bottom:4px;">Qualified (₹50+)</span>
+                <div style="font-size:18px; font-weight:900; color:var(--g);" id="ref-qualified-val">0</div>
+            </div>
+            <div style="background:linear-gradient(135deg, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0.02) 40%, rgba(0, 0, 0, 0.2) 100%); border:1px solid rgba(255,183,3,0.3); border-radius:12px; padding:12px 6px;">
+                <span style="font-size:10px; color:var(--tx-muted); text-transform:uppercase; font-weight:800; display:block; margin-bottom:4px;">Pending</span>
+                <div style="font-size:18px; font-weight:900; color:#ffb703;" id="ref-pending-val">0</div>
+            </div>
+            <div style="background:linear-gradient(135deg, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0.02) 40%, rgba(0, 0, 0, 0.2) 100%); border:1px solid rgba(0,240,255,0.3); border-radius:12px; padding:12px 6px;">
+                <span style="font-size:10px; color:var(--tx-muted); text-transform:uppercase; font-weight:800; display:block; margin-bottom:4px;">Commission</span>
+                <div style="font-size:18px; font-weight:900; color:var(--cyan);" id="ref-earn-val">₹0.00</div>
+            </div>
+        </div>
+
+        <!-- Referral Link & Code Box -->
+        <div class="form-group" style="margin-bottom:14px;">
+            <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;">
+                <label class="form-label" style="margin:0;">Your Invite Code: <b id="ref-my-code" style="color:var(--g); letter-spacing:1px;">--------</b></label>
+                <button type="button" class="btn btn-outline btn-xs" onclick="App.copyText(document.getElementById('ref-my-code').textContent)" style="padding:2px 8px; font-size:11px;">Copy Code</button>
+            </div>
+            <div style="display:flex; gap:8px;">
+                <input type="text" id="ref-my-link" class="form-input" readonly placeholder="Generating link..." style="font-size:12.5px;">
+                <button class="btn btn-primary" onclick="App.copyText(document.getElementById('ref-my-link').value)" style="white-space:nowrap; padding:0 18px; font-weight:800;">
+                    <svg class="icon icon-sm" viewBox="0 0 24 24"><rect width="14" height="14" x="8" y="8" rx="2" ry="2"/><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"/></svg>
+                    Copy Link
+                </button>
+            </div>
+        </div>
+
+        <div style="display:flex; gap:10px; margin-bottom:24px;">
+            <button class="btn btn-outline btn-block btn-sm" onclick="App.shareReferralTelegram()">
+                <svg class="icon icon-sm" viewBox="0 0 24 24"><path d="m22 2-7 20-4-9-9-4Z"/><path d="M22 2 11 13"/></svg>
+                Share Telegram
+            </button>
+            <button class="btn btn-outline btn-block btn-sm" onclick="App.shareReferralWhatsApp()">
+                <svg class="icon icon-sm" viewBox="0 0 24 24"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+                Share WhatsApp
+            </button>
+        </div>
+
+        <!-- Invited Members Network List -->
+        <div style="border-top:1px solid rgba(255,255,255,0.1); padding-top:20px;">
+            <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px;">
+                <h4 style="font-size:14px; font-weight:800; color:#fff; margin:0;">
+                    👥 My Referral Network (<span id="ref-network-count">0</span>)
+                </h4>
+                <span style="font-size:11px; color:var(--tx-muted);">Min deposit ₹50 to qualify</span>
+            </div>
+
+            <div id="ref-network-list" style="display:flex; flex-direction:column; gap:8px;">
+                <div style="text-align:center; padding:20px; color:var(--tx-muted); font-size:12.5px;">
+                    Loading your invited network...
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- 7. VIEW: CUSTOMER SUPPORT & FAQ -->
+<section class="spa-view-section " id="view-support">
+    <div class="section-header">
+        <div class="section-title">
+            <svg class="icon" viewBox="0 0 24 24"><path d="M3 11h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-5Zm0 0a9 9 0 1 1 18 0m0 0v5a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3"/><path d="M21 16v2a4 4 0 0 1-4 4h-5"/></svg>
+            <span>Customer</span> Help &amp; Support Center
+        </div>
+        <p style="font-size:13px; color:var(--tx-muted);">Need help with panel setup, injector installation, or payment verification? Our team is active 24/7.</p>
+    </div>
+
+    <div class="glass" style="max-width:580px; margin:0 auto; padding:24px;">
+        <!-- Direct Support Channels -->
+        <div style="display:flex; flex-direction:column; gap:12px; margin-bottom:28px;">
+            <a href="https://t.me/your_channel" id="support-tg-channel" target="_blank" class="btn btn-outline btn-block" style="justify-content:flex-start; padding:14px 18px; text-align:left;">
+                <svg class="icon" viewBox="0 0 24 24" style="color:#229ED9;"><path d="m22 2-7 20-4-9-9-4Z"/><path d="M22 2 11 13"/></svg>
+                <div>
+                    <b style="display:block; color:#fff; font-size:14px;">Official Telegram Channel</b>
+                    <span style="font-size:12px; color:var(--tx-muted);">Download latest APKs, bypass updates, and game announcements</span>
+                </div>
+            </a>
+
+            <a href="https://t.me/your_admin" id="support-tg-chat" target="_blank" class="btn btn-outline btn-block" style="justify-content:flex-start; padding:14px 18px; text-align:left;">
+                <svg class="icon" viewBox="0 0 24 24" style="color:var(--g);"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+                <div>
+                    <b style="display:block; color:#fff; font-size:14px;">Direct Telegram Support Agent (24/7)</b>
+                    <span style="font-size:12px; color:var(--tx-muted);">Instant 1-on-1 assistance for setup errors and custom queries</span>
+                </div>
+            </a>
+        </div>
+
+        <!-- Frequently Asked Questions -->
+        <h4 style="font-size:16px; font-weight:800; color:#fff; margin-bottom:14px; display:flex; align-items:center; gap:8px;">
+            <svg class="icon icon-sm" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+            Frequently Asked Questions
+        </h4>
+
+        <div style="display:flex; flex-direction:column; gap:10px;">
+            <details style="background:rgba(255, 255, 255, 0.05); backdrop-filter:blur(14px); -webkit-backdrop-filter:blur(14px); border:1px solid rgba(255, 255, 255, 0.16); box-shadow:inset 0 1px 1px rgba(255,255,255,0.2); border-radius:12px; padding:14px 16px;">
+                <summary style="font-weight:700; color:#fff; cursor:pointer; font-size:13.5px;">How fast do I get my license key after paying?</summary>
+                <p style="margin-top:10px; font-size:13px; color:var(--tx-muted); line-height:1.5;">
+                    Key delivery is 100% automated and instant. As soon as you click "Confirm &amp; Debit Wallet", your license key appears immediately on your screen and is saved under <a href="my-keys" onclick="App.navigate('keys', event)" style="color:var(--g); font-weight:700;">My Keys</a>.
+                </p>
+            </details>
+
+            <details style="background:rgba(255, 255, 255, 0.05); backdrop-filter:blur(14px); -webkit-backdrop-filter:blur(14px); border:1px solid rgba(255, 255, 255, 0.16); box-shadow:inset 0 1px 1px rgba(255,255,255,0.2); border-radius:12px; padding:14px 16px;">
+                <summary style="font-weight:700; color:#fff; cursor:pointer; font-size:13.5px;">How do I top up my wallet balance?</summary>
+                <p style="margin-top:10px; font-size:13px; color:var(--tx-muted); line-height:1.5;">
+                    Navigate to <a href="wallet" onclick="App.navigate('wallet', event)" style="color:var(--g); font-weight:700;">Recharge Wallet</a>, pick or type an amount, and scan the automatic UPI QR code. Your balance updates automatically in real-time upon successful payment.
+                </p>
+            </details>
+
+            <details style="background:rgba(255, 255, 255, 0.05); backdrop-filter:blur(14px); -webkit-backdrop-filter:blur(14px); border:1px solid rgba(255, 255, 255, 0.16); box-shadow:inset 0 1px 1px rgba(255,255,255,0.2); border-radius:12px; padding:14px 16px;">
+                <summary style="font-weight:700; color:#fff; cursor:pointer; font-size:13.5px;">Are these Free Fire panels safe against bans?</summary>
+                <p style="margin-top:10px; font-size:13px; color:var(--tx-muted); line-height:1.5;">
+                    All panels and injectors are sourced from top-tier VIP providers with daily bypass updates. We recommend checking the device status (Root / Non-Root / iOS) for the best match.
+                </p>
+            </details>
+        </div>
+    </div>
+</section>
+
+<!-- 7. VIEW: RESELLER API & DEVELOPER DOCUMENTATION -->
+<section class="spa-view-section " id="view-api">
+    <div class="section-header" style="margin-bottom:20px;">
+        <div class="section-title">
+            <svg class="icon" viewBox="0 0 24 24"><polygon points="12 2 2 7 12 12 22 7 12 2"></polygon><polyline points="2 17 12 22 22 17"></polyline><polyline points="2 12 12 17 22 12"></polyline></svg>
+            <span>Developer &amp; Reseller</span> API Documentation
+        </div>
+        <p style="font-size:13px; color:var(--tx-muted); margin-top:6px;">Connect your Telegram bot, website, or reseller automation. Real-time balance deduction &amp; instant key delivery.</p>
+
+        <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px; margin-top:14px; background:linear-gradient(135deg, rgba(0,240,255,0.08), rgba(121,40,202,0.12)); border:1px solid rgba(0,240,255,0.25); border-radius:12px; padding:12px 18px;">
+            <div style="font-size:13px; color:#fff;">
+                🚀 <b>Live Interactive Sandbox:</b> Want to test your API key, check balance, or buy a test key without writing code?
+            </div>
+            <a href="/testapi" class="btn btn-primary btn-sm" style="display:inline-flex; align-items:center; gap:6px; background:linear-gradient(135deg, #00f0ff, #00ff88); color:#000; font-weight:800; text-decoration:none; box-shadow:0 0 12px rgba(0,240,255,0.3);">
+                ⚡ Open /testapi Live Tester →
+            </a>
+        </div>
+    </div>
+
+    <!-- 1. Guest State for Reseller API -->
+    <div id="api-guest-card" class="glass hidden" style="max-width:540px; margin:0 auto; padding:24px; text-align:center;">
+        <div class="empty-state" style="padding:48px 20px;">
+            <svg class="icon icon-xl" viewBox="0 0 24 24" style="color:#00f0ff; width:48px; height:48px; margin-bottom:14px;"><polygon points="12 2 2 7 12 12 22 7 12 2"></polygon><polyline points="2 17 12 22 22 17"></polyline><polyline points="2 12 12 17 22 12"></polyline></svg>
+            <h3 style="font-size:18px; font-weight:800; color:#fff; margin-bottom:8px;">Sign In for Reseller API Access</h3>
+            <p style="font-size:13px; color:var(--tx-muted); max-width:420px; margin:0 auto 20px; line-height:1.5;">Please log in with your God Zilla  MODS STORE account to access your personal API token, live endpoints, and code examples.</p>
+            <div style="display:flex; justify-content:center; gap:12px; flex-wrap:wrap;">
+                <button type="button" class="btn btn-primary" onclick="App.openAuthModal('login')" style="padding:10px 24px; font-weight:800;">
+                    Login to Account
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- VIP Reseller Upgrade Hero Banner for Customer Tier -->
+    <div id="api-customer-upgrade-banner" class="glass" style="display:none; max-width:1050px; margin:0 auto 20px; padding:20px 24px; border-radius:18px; border:1.5px solid rgba(255, 183, 3, 0.4); background:radial-gradient(circle at top right, rgba(255, 183, 3, 0.12), transparent 70%), rgba(10, 15, 20, 0.85); box-shadow:0 0 25px rgba(255, 183, 3, 0.15);">
+        <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:16px;">
+            <div style="display:flex; align-items:center; gap:16px;">
+                <div style="width:52px; height:52px; border-radius:14px; background:rgba(255,183,3,0.18); border:1.5px solid rgba(255,183,3,0.5); display:flex; align-items:center; justify-content:center; font-size:26px; box-shadow:0 0 15px rgba(255,183,3,0.3); flex-shrink:0;">
+                    👑
+                </div>
+                <div>
+                    <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap; margin-bottom:4px;">
+                        <span class="badge" style="background:rgba(255,183,3,0.2); border:1px solid rgba(255,183,3,0.5); color:#ffb703; font-size:10.5px; font-weight:800; padding:2px 8px; border-radius:6px;">
+                            STANDARD CUSTOMER TIER
+                        </span>
+                        <span style="font-size:12px; color:#00ff88; font-weight:800;">
+                            ⚡ API KEY ACTIVE
+                        </span>
+                    </div>
+                    <h3 style="font-size:17px; font-weight:800; color:#fff; margin:2px 0 3px;">
+                        Unlock VIP Wholesale Rates (Save Up to 40% on Every Key)
+                    </h3>
+                    <p style="font-size:12.5px; color:var(--tx-muted); margin:0;">
+                        You have full API access! Upgrade your account to <b>VIP Reseller</b> to get wholesale prices &amp; 24/7 priority admin support.
+                    </p>
+                </div>
+            </div>
+            <div style="display:flex; gap:10px; flex-wrap:wrap;">
+                <button type="button" class="btn btn-primary" onclick="App.navigate('reseller-benefits', event)" style="background:linear-gradient(135deg, #ffb703, #fb8500); color:#000; font-weight:800; padding:10px 18px; border:none; box-shadow:0 0 18px rgba(255,183,3,0.35);">
+                    👑 View Reseller Benefits &amp; Pricing
+                </button>
+                <button type="button" class="btn btn-outline" onclick="App.navigate('support', event)" style="border-color:rgba(255,255,255,0.25); color:#fff; font-weight:700;">
+                    Contact Admin
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- 2. Authenticated Reseller API Container -->
+    <div id="api-container" class="hidden" style="max-width:1050px; margin:0 auto; display:none;">
+
+        <!-- Card A: API Credentials & Token -->
+        <div class="glass" style="padding:22px; margin-bottom:20px; border-radius:18px;">
+            <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px; border-bottom:1px solid var(--line); padding-bottom:14px; margin-bottom:16px;">
+                <div>
+                    <h3 style="font-size:16.5px; font-weight:800; color:#00f0ff; margin:0 0 4px; display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
+                        🔑 API AUTHENTICATION &amp; ACCESS
+                        <span class="badge" style="background:rgba(0,240,255,0.15); border:1px solid rgba(0,240,255,0.4); color:#00f0ff; font-size:10px; font-weight:800;">v1.0 LIVE</span>
+                        <span id="api-user-tier-badge" class="badge" style="font-size:10.5px; font-weight:800;"></span>
+                    </h3>
+                    <p style="font-size:12px; color:var(--tx-muted); margin:0;">Keep your API token confidential. All API purchases are charged directly to your wallet balance.</p>
+                </div>
+                <div style="display:flex; align-items:center; gap:10px;">
+                    <div style="background:rgba(0,255,136,0.1); border:1px solid rgba(0,255,136,0.3); padding:6px 12px; border-radius:10px; text-align:right;">
+                        <span style="font-size:10.5px; color:var(--tx-muted); text-transform:uppercase; font-weight:700; display:block;">Wallet Balance</span>
+                        <b style="color:var(--g); font-size:16px;" id="api-user-balance">₹0.00</b>
+                    </div>
+                    <button class="btn btn-primary btn-sm" onclick="App.navigate('wallet', event)" style="font-size:11.5px; font-weight:800; padding:8px 12px;">+ Top Up</button>
+                </div>
+            </div>
+
+            <div style="margin-bottom:12px;">
+                <label style="font-size:11px; text-transform:uppercase; letter-spacing:0.8px; color:var(--tx-muted); font-weight:800; display:block; margin-bottom:6px;">
+                    ACTIVE API ACCESS TOKEN
+                </label>
+                <div style="display:flex; gap:8px; align-items:center; flex-wrap:wrap;">
+                    <div style="position:relative; flex:1; min-width:240px;">
+                        <input type="text" id="api-key-input" readonly value="Loading token..." autocomplete="off" data-lpignore="true" style="font-family:monospace; font-size:13.5px; letter-spacing:1px; background:#040906; color:#00ff88; border:1px solid rgba(0,255,136,0.3); border-radius:10px; padding:10px 14px; width:100%; -webkit-text-security:disc; text-security:disc;">
+                    </div>
+                    <button type="button" class="btn btn-outline btn-sm" id="btn-toggle-key" onclick="App.toggleApiKeyVisibility()" style="font-weight:700;">
+                        👁️ SHOW KEY
+                    </button>
+                    <button type="button" class="btn btn-primary btn-sm" onclick="App.copyApiKey()" style="font-weight:800;">
+                        📋 COPY KEY
+                    </button>
+                    <button type="button" class="btn btn-outline btn-sm" onclick="App.regenerateApiKey()" style="border-color:rgba(255,51,102,0.4); color:var(--red); font-weight:700;">
+                        🔄 RE-GENERATE TOKEN
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card B: Quick Integration Guide & Live Code Samples -->
+        <div class="glass" style="padding:22px; margin-bottom:20px; border-radius:18px;">
+            <div style="margin-bottom:16px;">
+                <h3 style="font-size:16px; font-weight:800; color:#fff; margin:0 0 4px; display:flex; align-items:center; gap:8px;">
+                    ⚡ QUICK INTEGRATION GUIDE
+                </h3>
+                <div style="margin-top:8px; background:rgba(0,0,0,0.3); border:1px solid rgba(255,255,255,0.08); border-radius:10px; padding:10px 14px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
+                    <div style="font-size:12.5px; font-family:monospace; color:var(--cyan);">
+                        <span style="color:var(--tx-muted); font-weight:700;">ENDPOINT:</span> <b id="api-endpoint-display">https://yourdomain.com/api/reseller_v1.php</b>
+                    </div>
+                    <button type="button" class="btn btn-outline btn-sm" onclick="App.copyEndpoint()" style="font-size:11px; padding:4px 10px;">📋 COPY URL</button>
+                </div>
+                <p style="font-size:12px; color:var(--tx-muted); margin-top:8px; line-height:1.5;">
+                    Send HTTP POST requests with <b>api_key</b>, <b>action</b> (<code style="color:var(--g);">buy</code>, <code style="color:var(--g);">balance</code>, <code style="color:var(--g);">catalog</code>, <code style="color:var(--g);">orders</code>), <b>product_id</b> (PID), and <b>duration</b>.
+                </p>
+            </div>
+
+            <!-- Code Snippet Tabs -->
+            <div style="margin-bottom:10px; display:flex; gap:6px; flex-wrap:wrap; border-bottom:1px solid rgba(255,255,255,0.08); padding-bottom:10px;">
+                <button type="button" class="btn btn-sm api-code-tab active" id="tab-code-php" onclick="App.switchCodeTab('php')" style="font-weight:700;">PHP (cURL)</button>
+                <button type="button" class="btn btn-sm api-code-tab" id="tab-code-python" onclick="App.switchCodeTab('python')" style="background:transparent; color:var(--tx-muted); font-weight:700;">Python</button>
+                <button type="button" class="btn btn-sm api-code-tab" id="tab-code-curl" onclick="App.switchCodeTab('curl')" style="background:transparent; color:var(--tx-muted); font-weight:700;">cURL (CLI)</button>
+                <button type="button" class="btn btn-sm api-code-tab" id="tab-code-node" onclick="App.switchCodeTab('node')" style="background:transparent; color:var(--tx-muted); font-weight:700;">Node.js</button>
+            </div>
+
+            <div style="position:relative;">
+                <pre id="api-code-block" style="background:#040906; border:1px solid rgba(0,255,136,0.25); border-radius:10px; padding:14px; font-family:monospace; font-size:12px; line-height:1.5; color:#00ff88; overflow-x:auto; margin:0; max-height:280px;"></pre>
+                <button type="button" class="btn btn-sm btn-primary" onclick="App.copyApiCode()" style="position:absolute; top:10px; right:10px; font-size:11px; padding:5px 12px; font-weight:800;">
+                    📋 COPY CODE
+                </button>
+            </div>
+
+            <!-- AI Master Prompt Section -->
+            <div style="margin-top:20px; background:linear-gradient(135deg, rgba(0, 240, 255, 0.08) 0%, rgba(138, 43, 226, 0.08) 100%); border:1px solid rgba(0, 240, 255, 0.35); border-radius:14px; padding:18px;">
+                <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:12px;">
+                    <div>
+                        <div style="display:flex; align-items:center; gap:8px;">
+                            <span style="font-size:18px;">🤖</span>
+                            <h4 style="font-size:15px; font-weight:800; color:#fff; margin:0;">
+                                AI MASTER PROMPT (ChatGPT / Claude / DeepSeek / Any AI Agent)
+                            </h4>
+                            <span class="badge" style="background:linear-gradient(135deg, #00f0ff, #7928ca); color:#fff; font-size:10px; padding:3px 8px; border-radius:6px; font-weight:800;">1-CLICK AI INTEGRATION</span>
+                        </div>
+                        <p style="font-size:12px; color:var(--tx-muted); margin:4px 0 0;">
+                            Copy this complete prompt and paste it into ChatGPT, Claude, Gemini, or any AI coding assistant. It instructs the AI on the exact API specification, endpoints, headers, request structures, and bot code so it integrates your store in seconds without manual coding!
+                        </p>
+                    </div>
+                    <button type="button" class="btn btn-primary btn-sm" onclick="App.copyAiMasterPrompt()" style="font-size:12px; padding:6px 14px; font-weight:800; box-shadow:0 0 15px rgba(0,255,136,0.3);">
+                        📋 COPY AI MASTER PROMPT
+                    </button>
+                </div>
+                <div style="position:relative;">
+                    <textarea id="ai-master-prompt-text" readonly style="width:100%; height:160px; background:#040906; border:1px solid rgba(0,240,255,0.25); border-radius:10px; padding:12px; font-family:monospace; font-size:11.5px; line-height:1.5; color:#a3e635; resize:vertical; outline:none;"></textarea>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card C: Live Product Reference Table (PIDs & Live Stock) -->
+        <div class="glass" style="padding:22px; border-radius:18px;">
+            <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px; margin-bottom:14px; border-bottom:1px solid var(--line); padding-bottom:12px;">
+                <div>
+                    <h3 style="font-size:16px; font-weight:800; color:#fff; margin:0 0 4px; display:flex; align-items:center; gap:8px;">
+                        📦 PRODUCT REFERENCE TABLE (PIDS &amp; LIVE STOCK)
+                    </h3>
+                    <p style="font-size:12px; color:var(--tx-muted); margin:0;">
+                        Select the exact <b>PID</b> and <b>Duration Name</b> in your API integration calls.
+                    </p>
+                </div>
+                <div style="display:flex; gap:10px; align-items:center;">
+                    <button type="button" class="btn btn-outline btn-sm" onclick="App.copyAllReferenceTable()" style="border-color:#ffb703; color:#ffb703; font-weight:700;">
+                        📋 CLICK TO COPY ALL (TSV Format)
+                    </button>
+                </div>
+            </div>
+
+            <!-- Search input -->
+            <div style="margin-bottom:12px;">
+                <input type="search" id="api-table-search" placeholder="Search product name, PID, or duration..." oninput="App.filterApiTable()" style="width:100%; max-width:380px; margin:0; padding:8px 12px; font-size:12.5px; border-radius:8px;">
+            </div>
+
+            <div style="overflow-x:auto; max-height:450px;">
+                <table style="width:100%; border-collapse:collapse; font-size:12.5px;">
+                    <thead>
+                        <tr style="border-bottom:1px solid var(--line); color:var(--tx-muted); text-align:left;">
+                            <th style="padding:10px 8px; width:220px;">PRODUCT NAME</th>
+                            <th style="padding:10px 8px; width:70px;">PID</th>
+                            <th style="padding:10px 8px;">DURATIONS &amp; STOCK</th>
+                            <th style="padding:10px 8px; text-align:right; width:90px;">ACTION</th>
+                        </tr>
+                    </thead>
+                    <tbody id="api-reference-tbody">
+                        <tr><td colspan="4" style="text-align:center; padding:30px; color:var(--tx-muted);">Loading live product reference catalog...</td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+<!-- 8. VIEW: RESELLER API LIVE TESTING SANDBOX (/testapi) -->
+<section class="spa-view-section " id="view-testapi">
+    <div class="section-header" style="margin-bottom:20px;">
+        <div class="section-title">
+            <svg class="icon" viewBox="0 0 24 24"><polygon points="12 2 2 7 12 12 22 7 12 2"></polygon><polyline points="2 17 12 22 22 17"></polyline><polyline points="2 12 12 17 22 12"></polyline></svg>
+            <span>Live Reseller API</span> Sandbox &amp; Tester
+        </div>
+        <p style="font-size:13px; color:var(--tx-muted); margin-top:6px;">
+            Test your Reseller API key in real-time. Check live balance, fetch product catalog with exact PIDs, and execute key purchases with instant key delivery.
+        </p>
+    </div>
+
+    <!-- 1. Guest State for Test API Sandbox -->
+    <div id="testapi-guest-card" class="glass hidden" style="max-width:540px; margin:0 auto 20px; padding:24px; text-align:center;">
+        <div class="empty-state" style="padding:48px 20px;">
+            <svg class="icon icon-xl" viewBox="0 0 24 24" style="color:#00f0ff; width:48px; height:48px; margin-bottom:14px;"><polygon points="12 2 2 7 12 12 22 7 12 2"></polygon><polyline points="2 17 12 22 22 17"></polyline><polyline points="2 12 12 17 22 12"></polyline></svg>
+            <h3 style="font-size:18px; font-weight:800; color:#fff; margin-bottom:8px;">Sign In for Reseller Sandbox Access</h3>
+            <p style="font-size:13px; color:var(--tx-muted); max-width:420px; margin:0 auto 20px; line-height:1.5;">Please log in with an approved Reseller account to test API endpoints and execute live sandbox actions.</p>
+            <div style="display:flex; justify-content:center; gap:12px; flex-wrap:wrap;">
+                <button type="button" class="btn btn-primary" onclick="App.openAuthModal('login')" style="padding:10px 24px; font-weight:800;">
+                    Login to Account
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Customer Tier Notification Banner in Sandbox -->
+    <div id="testapi-customer-tip-banner" class="glass" style="display:none; max-width:1050px; margin:0 auto 16px; padding:12px 18px; border-radius:12px; border:1px solid rgba(255,183,3,0.3); background:rgba(255,183,3,0.06); font-size:12.5px; color:#ffb703; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px;">
+        <div style="display:flex; align-items:center; gap:8px;">
+            <span>💡</span>
+            <span>You are testing as <b>Standard Customer</b> (retail pricing). Upgrade to <b>VIP Reseller</b> to unlock wholesale discounted rates!</span>
+        </div>
+        <button type="button" class="btn btn-outline btn-sm" onclick="App.navigate('reseller-benefits', event)" style="border-color:#ffb703; color:#ffb703; font-weight:800; font-size:11.5px; padding:4px 10px;">
+            👑 View Reseller Benefits
+        </button>
+    </div>
+
+    <div id="testapi-sandbox-container" style="max-width:1050px; margin:0 auto;">
+
+        <!-- STEP 1: API KEY INPUT & CREDENTIALS -->
+        <div class="glass" style="padding:22px; margin-bottom:20px; border-radius:18px; border:1px solid rgba(0,240,255,0.25); background:radial-gradient(circle at top left, rgba(0,240,255,0.06), transparent 70%);">
+            <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px; margin-bottom:14px;">
+                <div>
+                    <h3 style="font-size:16px; font-weight:800; color:#fff; display:flex; align-items:center; gap:8px;">
+                        <span>🔑</span> Reseller API Key
+                    </h3>
+                    <p style="font-size:12.5px; color:var(--tx-muted); margin-top:2px;">
+                        Enter your API key below or click "Auto-Fill My Key" if you are logged in.
+                    </p>
+                </div>
+                <div style="display:flex; gap:8px; flex-wrap:wrap; align-items:center;">
+                    <button type="button" class="btn btn-outline btn-sm" onclick="App.testApiAutoFillKey()" style="border-color:#00f0ff; color:#00f0ff; font-weight:700;">
+                        ⚡ Auto-Fill My Key
+                    </button>
+                    <button type="button" class="btn btn-outline btn-sm" onclick="App.testApiSaveKey()" style="border-color:#00ff88; color:#00ff88;">
+                        💾 Save Key
+                    </button>
+                    <button type="button" class="btn btn-outline btn-sm" onclick="App.testApiClearKey()">
+                        ✕ Clear
+                    </button>
+                </div>
+            </div>
+
+            <div style="position:relative; margin-bottom:10px;">
+                <input type="text" id="testapi-key" placeholder="Enter API Key (e.g. God Zilla _live_xxxxxxxxxxxxxxxxxxxxxxxx)" style="width:100%; font-family:monospace; font-size:13.5px; padding:12px 14px; background:rgba(0,0,0,0.45); border:1px solid rgba(255,255,255,0.18); border-radius:10px; color:#00f0ff; outline:none; transition:border-color 0.2s;" oninput="App.testApiKeyChanged()">
+            </div>
+            <div id="testapi-key-status" style="font-size:12px; color:var(--tx-muted); display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap;">
+                <span>🔒 Endpoint: <code style="color:#00ff88;">/api/reseller_v1.php</code></span>
+                <span id="testapi-key-source" style="color:var(--tx-muted);">No key entered</span>
+            </div>
+        </div>
+
+        <!-- 2-COLUMN GRID: ACTIONS & CATALOG -->
+        <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(320px, 1fr)); gap:20px; margin-bottom:20px;">
+            
+            <!-- ACTION CARD 1: WALLET BALANCE -->
+            <div class="glass" style="padding:20px; border-radius:18px;">
+                <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px;">
+                    <div>
+                        <h4 style="font-size:15px; font-weight:800; color:#fff; display:flex; align-items:center; gap:6px;">
+                            <span>💰</span> 1. Check Wallet Balance
+                        </h4>
+                        <span style="font-size:11.5px; color:var(--tx-muted); font-family:monospace;">action=balance</span>
+                    </div>
+                    <button type="button" class="btn btn-primary btn-sm" id="testapi-btn-balance" onclick="App.testApiGetBalance()" style="font-weight:800;">
+                        💳 Get Balance
+                    </button>
+                </div>
+
+                <div id="testapi-balance-result" style="background:rgba(0,0,0,0.3); border:1px solid rgba(255,255,255,0.08); border-radius:12px; padding:16px; text-align:center;">
+                    <div style="font-size:12px; color:var(--tx-muted); margin-bottom:4px;">ACCOUNT BALANCE</div>
+                    <div id="testapi-balance-val" style="font-size:26px; font-weight:900; color:#00ff88; font-family:monospace;">₹--.--</div>
+                    <div id="testapi-balance-info" style="font-size:11.5px; color:var(--tx-muted); margin-top:4px;">Click "Get Balance" above to query your balance</div>
+                </div>
+            </div>
+
+            <!-- ACTION CARD 2: PURCHASE KEY -->
+            <div class="glass" style="padding:20px; border-radius:18px; border:1px solid rgba(0,255,136,0.25);">
+                <div style="display:flex; justify-content:space-between; align-items::center; margin-bottom:12px;">
+                    <div>
+                        <h4 style="font-size:15px; font-weight:800; color:#fff; display:flex; align-items:center; gap:6px;">
+                            <span>🛒</span> 2. Purchase / Buy Key
+                        </h4>
+                        <span style="font-size:11.5px; color:var(--tx-muted); font-family:monospace;">action=buy</span>
+                    </div>
+                    <span class="badge" style="background:rgba(0,255,136,0.15); color:#00ff88; font-size:10px; font-weight:800;">INSTANT DELIVERY</span>
+                </div>
+
+                <form onsubmit="event.preventDefault(); App.testApiBuyKey();" style="display:grid; grid-template-columns:1fr 1fr; gap:10px; margin-bottom:12px;">
+                    <div>
+                        <label style="display:block; font-size:11px; font-weight:700; color:var(--tx-muted); margin-bottom:4px;">PRODUCT PID *</label>
+                        <input type="number" id="testapi-pid" placeholder="e.g. 101" required style="width:100%; font-family:monospace; padding:8px 10px; background:rgba(0,0,0,0.4); border:1px solid rgba(255,255,255,0.15); border-radius:8px; color:#fff; font-size:13px;">
+                    </div>
+                    <div>
+                        <label style="display:block; font-size:11px; font-weight:700; color:var(--tx-muted); margin-bottom:4px;">DURATION *</label>
+                        <input type="text" id="testapi-duration" placeholder="e.g. 1 Day" required style="width:100%; font-family:monospace; padding:8px 10px; background:rgba(0,0,0,0.4); border:1px solid rgba(255,255,255,0.15); border-radius:8px; color:#fff; font-size:13px;">
+                    </div>
+                    <div style="grid-column:1 / -1;">
+                        <label style="display:block; font-size:11px; font-weight:700; color:var(--tx-muted); margin-bottom:4px;">CUSTOM REF ID (OPTIONAL)</label>
+                        <input type="text" id="testapi-ref" placeholder="Optional custom ref (e.g. TEST-001)" style="width:100%; font-family:monospace; padding:8px 10px; background:rgba(0,0,0,0.4); border:1px solid rgba(255,255,255,0.15); border-radius:8px; color:#fff; font-size:13px;">
+                    </div>
+                    <div style="grid-column:1 / -1; margin-top:4px;">
+                        <button type="submit" id="testapi-btn-buy" class="btn btn-primary" style="width:100%; background:linear-gradient(135deg, #00ff88, #00b4d8); color:#000; font-weight:900; font-size:13.5px; padding:11px; box-shadow:0 0 16px rgba(0,255,136,0.3);">
+                            ⚡ Buy Key via API Now
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <!-- DELIVERED KEY DISPLAY CARD (REVEALED ON PURCHASE) -->
+        <div id="testapi-purchase-result-card" class="glass hidden" style="padding:22px; margin-bottom:20px; border-radius:18px; border:1px solid #00ff88; background:radial-gradient(circle at top, rgba(0,255,136,0.1), transparent 75%); display:none;">
+            <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:12px;">
+                <div style="display:flex; align-items:center; gap:8px;">
+                    <span style="font-size:22px;">🎉</span>
+                    <div>
+                        <h4 style="font-size:16px; font-weight:900; color:#00ff88; margin:0;">LICENSE KEY DELIVERED!</h4>
+                        <span id="testapi-purchase-title" style="font-size:12px; color:#fff;">Product Name &amp; Duration</span>
+                    </div>
+                </div>
+                <button type="button" class="btn btn-primary btn-sm" onclick="App.copyTestApiDeliveredKey()" style="background:#00ff88; color:#000; font-weight:800; display:flex; align-items:center; gap:6px;">
+                    📋 Copy Key
+                </button>
+            </div>
+
+            <!-- Glowing Key Container -->
+            <div style="position:relative; background:rgba(0,0,0,0.7); border:1px dashed #00ff88; border-radius:10px; padding:14px; text-align:center; margin-bottom:14px; cursor:pointer;" onclick="App.copyTestApiDeliveredKey()" title="Click to copy key">
+                <div style="font-size:11px; color:var(--tx-muted); margin-bottom:4px;">DELIVERED LICENSE KEY (CLICK TO COPY)</div>
+                <div id="testapi-delivered-key" style="font-family:monospace; font-size:18px; font-weight:900; color:#00ff88; letter-spacing:1px; word-break:break-all;">--</div>
+            </div>
+
+            <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(130px, 1fr)); gap:10px; font-size:12px;">
+                <div style="background:rgba(255,255,255,0.03); padding:8px 12px; border-radius:8px;">
+                    <div style="color:var(--tx-muted); font-size:10.5px;">ORDER ID</div>
+                    <b id="testapi-order-id" style="font-family:monospace; color:#fff;">--</b>
+                </div>
+                <div style="background:rgba(255,255,255,0.03); padding:8px 12px; border-radius:8px;">
+                    <div style="color:var(--tx-muted); font-size:10.5px;">PRICE DEDUCTED</div>
+                    <b id="testapi-deducted-price" style="color:#00ff88;">₹0.00</b>
+                </div>
+                <div style="background:rgba(255,255,255,0.03); padding:8px 12px; border-radius:8px;">
+                    <div style="color:var(--tx-muted); font-size:10.5px;">WALLET REMAINING</div>
+                    <b id="testapi-remaining-bal" style="color:#00f0ff;">₹0.00</b>
+                </div>
+                <div style="background:rgba(255,255,255,0.03); padding:8px 12px; border-radius:8px;">
+                    <div style="color:var(--tx-muted); font-size:10.5px;">DELIVERY MODE</div>
+                    <b id="testapi-delivery-mode" style="color:#ffb703;">--</b>
+                </div>
+            </div>
+        </div>
+
+        <!-- ERROR MESSAGE ALERT BOX -->
+        <div id="testapi-error-card" class="glass hidden" style="padding:16px 20px; margin-bottom:20px; border-radius:14px; border:1px solid #ff4757; background:rgba(255,71,87,0.1); display:none;">
+            <div style="display:flex; align-items:flex-start; gap:12px;">
+                <span style="font-size:20px;">⚠️</span>
+                <div style="flex:1;">
+                    <h5 style="font-size:14px; font-weight:800; color:#ff4757; margin:0 0 4px;">API Request Failed</h5>
+                    <p id="testapi-error-msg" style="font-size:12.5px; color:#fff; margin:0; line-height:1.4;">--</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- ACTION CARD 3: INTERACTIVE CATALOG BROWSER & PID SELECTOR -->
+        <div class="glass" style="padding:22px; margin-bottom:20px; border-radius:18px;">
+            <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px; margin-bottom:14px;">
+                <div>
+                    <h3 style="font-size:16px; font-weight:800; color:#fff; display:flex; align-items:center; gap:8px;">
+                        <span>📦</span> 3. Live Product Catalog (PIDs &amp; Live Stock)
+                    </h3>
+                    <p style="font-size:12.5px; color:var(--tx-muted); margin-top:2px;">
+                        Click any duration pill to instantly autofill PID &amp; Duration into the purchase form above!
+                    </p>
+                </div>
+                <div style="display:flex; gap:8px; align-items:center;">
+                    <button type="button" class="btn btn-outline btn-sm" id="testapi-btn-catalog" onclick="App.testApiGetCatalog()" style="border-color:#00f0ff; color:#00f0ff; font-weight:700;">
+                        🔄 Fetch Catalog
+                    </button>
+                </div>
+            </div>
+
+            <!-- Search input -->
+            <div style="margin-bottom:14px;">
+                <input type="search" id="testapi-catalog-search" placeholder="Search catalog by title, PID, or duration..." oninput="App.testApiFilterCatalog(this.value)" style="width:100%; max-width:380px; margin:0; padding:8px 12px; font-size:12.5px; border-radius:8px; background:rgba(0,0,0,0.35); border:1px solid rgba(255,255,255,0.15); color:#fff;">
+            </div>
+
+            <div style="overflow-x:auto; max-height:480px;">
+                <table style="width:100%; border-collapse:collapse; font-size:12.5px;">
+                    <thead>
+                        <tr style="border-bottom:1px solid var(--line); color:var(--tx-muted); text-align:left;">
+                            <th style="padding:10px 8px; width:220px;">PRODUCT NAME</th>
+                            <th style="padding:10px 8px; width:70px;">PID</th>
+                            <th style="padding:10px 8px;">DURATIONS &amp; PRICES (CLICK TO BUY)</th>
+                            <th style="padding:10px 8px; text-align:right; width:110px;">ACTION</th>
+                        </tr>
+                    </thead>
+                    <tbody id="testapi-catalog-tbody">
+                        <tr><td colspan="4" style="text-align:center; padding:30px; color:var(--tx-muted);">Click "Fetch Catalog" above to load products and PIDs with your API key.</td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- RAW API JSON DEBUG CONSOLE -->
+        <div class="glass" style="padding:18px 22px; border-radius:18px;">
+            <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:10px; flex-wrap:wrap; gap:8px;">
+                <h4 style="font-size:13px; font-weight:800; color:var(--tx-muted); text-transform:uppercase; letter-spacing:0.5px; display:flex; align-items:center; gap:6px;">
+                    <span>💻</span> Raw API JSON Response Console
+                </h4>
+                <div style="display:flex; gap:8px;">
+                    <button type="button" class="btn btn-outline btn-sm" onclick="App.copyTestApiJson()" style="font-size:11px; padding:4px 10px;">
+                        📋 Copy JSON
+                    </button>
+                    <button type="button" class="btn btn-outline btn-sm" onclick="document.getElementById('testapi-raw-json').innerText = '// Ready for testing...'" style="font-size:11px; padding:4px 10px;">
+                        ✕ Clear
+                    </button>
+                </div>
+            </div>
+            <pre id="testapi-raw-json" style="margin:0; padding:14px; background:#0b0d14; border:1px solid rgba(255,255,255,0.08); border-radius:10px; font-family:monospace; font-size:12px; color:#00f0ff; max-height:260px; overflow-y:auto; white-space:pre-wrap; word-break:break-all;">// Ready for testing. Enter API key and click Get Balance, Fetch Catalog, or Buy Key above.</pre>
+        </div>
+
+    </div>
+</section>
+
+
+<!-- 10. VIEW: BENEFITS OF UPGRADING TO RESELLER (/reseller-benefits) -->
+<section class="spa-view-section " id="view-reseller-benefits">
+    <!-- Header -->
+    <div class="section-header" style="margin-bottom:24px; text-align:center;">
+        <span class="badge" style="background:rgba(255,183,3,0.18); border:1px solid rgba(255,183,3,0.5); color:#ffb703; font-size:11.5px; font-weight:800; padding:4px 12px; border-radius:20px; letter-spacing:0.8px; margin-bottom:10px; display:inline-block;">
+            👑 VIP RESELLER PROGRAM
+        </span>
+        <h2 style="font-size:26px; font-weight:900; color:#fff; margin:0 0 8px; letter-spacing:0.5px;">
+            Upgrade to <span style="background:linear-gradient(135deg, #ffb703, #fb8500); -webkit-background-clip:text; -webkit-text-fill-color:transparent;">VIP Reseller</span> &amp; Unlock Wholesale Rates
+        </h2>
+        <p style="font-size:14px; color:var(--tx-muted); max-width:620px; margin:0 auto; line-height:1.6;">
+            Get the cheapest panel prices in the market, 24/7 automated Bot API key generation, and priority admin support. Start reselling and maximize your profits today!
+        </p>
+    </div>
+
+    <div style="max-width:1050px; margin:0 auto;">
+
+        <!-- 1. VIP UPGRADE ACTION & STATUS BANNER -->
+        <div class="glass" style="padding:24px 28px; margin-bottom:24px; border-radius:20px; border:1.5px solid rgba(255,183,3,0.35); background:radial-gradient(circle at top left, rgba(255,183,3,0.14), transparent 70%), rgba(10,15,22,0.9); box-shadow:0 0 30px rgba(255,183,3,0.15);">
+            <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:18px;">
+                <div style="display:flex; align-items:center; gap:16px;">
+                    <div style="width:58px; height:58px; border-radius:16px; background:linear-gradient(135deg, rgba(255,183,3,0.25), rgba(251,133,0,0.25)); border:2px solid rgba(255,183,3,0.6); display:flex; align-items:center; justify-content:center; font-size:28px; box-shadow:0 0 20px rgba(255,183,3,0.3); flex-shrink:0;">
+                        👑
+                    </div>
+                    <div>
+                        <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap; margin-bottom:4px;">
+                            <span id="benefits-tier-badge" class="badge" style="background:rgba(255,183,3,0.2); border:1px solid rgba(255,183,3,0.5); color:#ffb703; font-size:11px; font-weight:800; padding:2px 8px; border-radius:6px;">
+                                Checking your account status...
+                            </span>
+                            <span style="font-size:12px; color:#00ff88; font-weight:800;">⚡ Instant Role Promotion Available</span>
+                        </div>
+                        <h3 style="font-size:18px; font-weight:800; color:#fff; margin:0 0 3px;">
+                            Ready to Upgrade Your God Zilla  MODS Account?
+                        </h3>
+                        <p style="font-size:13px; color:var(--tx-muted); margin:0;">
+                            Contact Admin with your registered email or username to activate your wholesale Reseller role immediately.
+                        </p>
+                    </div>
+                </div>
+                <div style="display:flex; gap:10px; flex-wrap:wrap; align-items:center;">
+                    <button type="button" class="btn btn-primary" onclick="App.navigate('support', event)" style="background:linear-gradient(135deg, #ffb703, #fb8500); color:#000; font-weight:900; font-size:13.5px; padding:12px 22px; border:none; box-shadow:0 0 20px rgba(255,183,3,0.4); border-radius:10px;">
+                        💬 Contact Admin to Upgrade
+                    </button>
+                    <button type="button" class="btn btn-outline" onclick="App.navigate('api', event)" style="font-size:13px; font-weight:700; padding:11px 18px; border-color:rgba(255,255,255,0.25);">
+                        ⚡ My API Credentials
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- 2. SIX RESELLER CORE BENEFITS CARDS -->
+        <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(280px, 1fr)); gap:16px; margin-bottom:28px;">
+            
+            <!-- Benefit 1: Wholesale Sasta Price -->
+            <div class="glass" style="padding:22px; border-radius:18px; border:1px solid rgba(0,255,136,0.3); background:radial-gradient(circle at top left, rgba(0,255,136,0.08), transparent 70%);">
+                <div style="width:44px; height:44px; border-radius:12px; background:rgba(0,255,136,0.15); border:1px solid rgba(0,255,136,0.4); display:flex; align-items:center; justify-content:center; font-size:22px; margin-bottom:12px;">
+                    💸
+                </div>
+                <h4 style="font-size:16px; font-weight:800; color:#fff; margin:0 0 6px;">
+                    Wholesale Discounted Pricing
+                </h4>
+                <p style="font-size:12.5px; color:var(--tx-muted); line-height:1.55; margin:0;">
+                    Get massive price reductions on every single panel, plan, and duration. Save up to <b>40% per key</b> compared to standard retail prices!
+                </p>
+            </div>
+
+            <!-- Benefit 2: Automated Bot API Access -->
+            <div class="glass" style="padding:22px; border-radius:18px; border:1px solid rgba(0,240,255,0.3); background:radial-gradient(circle at top left, rgba(0,240,255,0.08), transparent 70%);">
+                <div style="width:44px; height:44px; border-radius:12px; background:rgba(0,240,255,0.15); border:1px solid rgba(0,240,255,0.4); display:flex; align-items:center; justify-content:center; font-size:22px; margin-bottom:12px;">
+                    ⚡
+                </div>
+                <h4 style="font-size:16px; font-weight:800; color:#fff; margin:0 0 6px;">
+                    24/7 Automated Bot API
+                </h4>
+                <p style="font-size:12.5px; color:var(--tx-muted); line-height:1.55; margin:0;">
+                    Connect your Telegram bot, Discord bot, or website directly with your API key. Enjoy sub-second key generation and zero-touch delivery.
+                </p>
+            </div>
+
+            <!-- Benefit 3: Priority 24/7 Admin Support -->
+            <div class="glass" style="padding:22px; border-radius:18px; border:1px solid rgba(255,183,3,0.3); background:radial-gradient(circle at top left, rgba(255,183,3,0.08), transparent 70%);">
+                <div style="width:44px; height:44px; border-radius:12px; background:rgba(255,183,3,0.15); border:1px solid rgba(255,183,3,0.4); display:flex; align-items:center; justify-content:center; font-size:22px; margin-bottom:12px;">
+                    🛡️
+                </div>
+                <h4 style="font-size:16px; font-weight:800; color:#fff; margin:0 0 6px;">
+                    Priority 24/7 VIP Admin Support
+                </h4>
+                <p style="font-size:12.5px; color:var(--tx-muted); line-height:1.55; margin:0;">
+                    Resellers get direct fast-track support on WhatsApp &amp; Telegram. Instant stock restocks, custom pricing requests, and dedicated troubleshooting.
+                </p>
+            </div>
+
+            <!-- Benefit 4: High Concurrency & Bulk Purchases -->
+            <div class="glass" style="padding:22px; border-radius:18px; border:1px solid rgba(168,85,247,0.3); background:radial-gradient(circle at top left, rgba(168,85,247,0.08), transparent 70%);">
+                <div style="width:44px; height:44px; border-radius:12px; background:rgba(168,85,247,0.15); border:1px solid rgba(168,85,247,0.4); display:flex; align-items:center; justify-content:center; font-size:22px; margin-bottom:12px;">
+                    📦
+                </div>
+                <h4 style="font-size:16px; font-weight:800; color:#fff; margin:0 0 6px;">
+                    Bulk Orders &amp; High Rate Limits
+                </h4>
+                <p style="font-size:12.5px; color:var(--tx-muted); line-height:1.55; margin:0;">
+                    Generate up to 100 license keys in a single instant API call. Generous API rate limits designed for high-volume store traffic.
+                </p>
+            </div>
+
+            <!-- Benefit 5: Maximum Profit Margins -->
+            <div class="glass" style="padding:22px; border-radius:18px; border:1px solid rgba(236,72,153,0.3); background:radial-gradient(circle at top left, rgba(236,72,153,0.08), transparent 70%);">
+                <div style="width:44px; height:44px; border-radius:12px; background:rgba(236,72,153,0.15); border:1px solid rgba(236,72,153,0.4); display:flex; align-items:center; justify-content:center; font-size:22px; margin-bottom:12px;">
+                    📈
+                </div>
+                <h4 style="font-size:16px; font-weight:800; color:#fff; margin:0 0 6px;">
+                    100% Margin &amp; Brand Control
+                </h4>
+                <p style="font-size:12.5px; color:var(--tx-muted); line-height:1.55; margin:0;">
+                    You buy at wholesale rates and sell at whatever retail price you choose. Keep 100% of the profits and build your own profitable brand.
+                </p>
+            </div>
+
+            <!-- Benefit 6: Real-time Auto Price Sync -->
+            <div class="glass" style="padding:22px; border-radius:18px; border:1px solid rgba(59,130,246,0.3); background:radial-gradient(circle at top left, rgba(59,130,246,0.08), transparent 70%);">
+                <div style="width:44px; height:44px; border-radius:12px; background:rgba(59,130,246,0.15); border:1px solid rgba(59,130,246,0.4); display:flex; align-items:center; justify-content:center; font-size:22px; margin-bottom:12px;">
+                    ⏱️
+                </div>
+                <h4 style="font-size:16px; font-weight:800; color:#fff; margin:0 0 6px;">
+                    Always-Updated Server Stock
+                </h4>
+                <p style="font-size:12.5px; color:var(--tx-muted); line-height:1.55; margin:0;">
+                    Never worry about out-of-stock panels. Server auto-syncs live stock every 30 minutes ensuring your sub-clients always receive valid keys.
+                </p>
+            </div>
+
+        </div>
+
+        <!-- 3. LIVE PRICE COMPARISON TABLE (CUSTOMER VS RESELLER) -->
+        <div class="glass" style="padding:24px; border-radius:20px; border:1px solid rgba(255,255,255,0.12); margin-bottom:28px;">
+            <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px; margin-bottom:16px; border-bottom:1px solid var(--line); padding-bottom:14px;">
+                <div>
+                    <h3 style="font-size:17px; font-weight:800; color:#fff; margin:0 0 4px; display:flex; align-items:center; gap:8px;">
+                        <span>📊</span> Live Price Comparison (Customer vs. VIP Reseller)
+                    </h3>
+                    <p style="font-size:12.5px; color:var(--tx-muted); margin:0;">
+                        See exactly how much you save on every panel duration when upgraded to VIP Reseller.
+                    </p>
+                </div>
+                <div style="display:flex; gap:10px; align-items:center;">
+                    <input type="search" id="benefits-search-input" placeholder="Search panel name or system..." oninput="App.filterResellerBenefitsTable()" style="margin:0; padding:8px 14px; font-size:12.5px; border-radius:8px; width:220px;">
+                </div>
+            </div>
+
+            <div style="overflow-x:auto;">
+                <table style="width:100%; border-collapse:collapse; font-size:12.5px;">
+                    <thead>
+                        <tr style="border-bottom:1px solid var(--line); color:var(--tx-muted); text-align:left;">
+                            <th style="padding:10px 8px; width:240px;">PANEL NAME &amp; SYSTEM</th>
+                            <th style="padding:10px 8px;">DURATION</th>
+                            <th style="padding:10px 8px; text-align:center;">RETAIL PRICE (CUSTOMER)</th>
+                            <th style="padding:10px 8px; text-align:center;">👑 VIP RESELLER PRICE</th>
+                            <th style="padding:10px 8px; text-align:right;">YOUR PROFIT / SAVINGS</th>
+                        </tr>
+                    </thead>
+                    <tbody id="benefits-comparison-tbody">
+                        <tr><td colspan="5" style="text-align:center; padding:32px; color:var(--tx-muted);">Loading live comparison pricing...</td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- 4. BOTTOM UPGRADE CALL TO ACTION -->
+        <div class="glass" style="padding:28px 24px; text-align:center; border-radius:20px; border:1px solid rgba(0,255,136,0.3); background:radial-gradient(circle at center, rgba(0,255,136,0.06), transparent 80%);">
+            <h3 style="font-size:20px; font-weight:800; color:#fff; margin:0 0 8px;">
+                Ready to Boost Your Profits as a Reseller?
+            </h3>
+            <p style="font-size:13.5px; color:var(--tx-muted); max-width:540px; margin:0 auto 20px; line-height:1.6;">
+                Message admin support on Telegram or WhatsApp now with your registered email. Your account will be upgraded within minutes!
+            </p>
+            <div style="display:flex; justify-content:center; gap:12px; flex-wrap:wrap;">
+                <button type="button" class="btn btn-primary" onclick="App.navigate('support', event)" style="background:linear-gradient(135deg, #00ff88, #00f0ff); color:#000; font-weight:900; padding:12px 28px; font-size:14px; border:none; box-shadow:0 0 25px rgba(0,255,136,0.35);">
+                    🚀 Upgrade My Account to Reseller Now
+                </button>
+                <button type="button" class="btn btn-outline" onclick="App.navigate('api', event)" style="font-size:13px; font-weight:700; padding:11px 20px;">
+                    ← Go to API Access
+                </button>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    if (window.App) {
+        App.initPage('shop');
+    }
+});
+</script>
+
+    </main>
+
+    <!-- Mobile Bottom Navigation Bar (EXACTLY 5 BUTTONS, ZERO-RELOAD SPA TAB SWITCH) -->
+    <nav class="bottom-nav">
+        <!-- 1. Shop Button -->
+        <a href="shop" data-tab="shop" onclick="App.navigate('shop', event)" class="nav-item active">
+            <svg class="icon" viewBox="0 0 24 24"><path d="m2 7 4.41-4.41A2 2 0 0 1 7.83 2h8.34a2 2 0 0 1 1.42.59L22 7"/><path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"/><path d="M15 22v-4a2 2 0 0 0-2-2h-2a2 2 0 0 0-2 2v4"/><path d="M2 7h20"/></svg>
+            <span>Shop</span>
+        </a>
+
+        <!-- 2. Keys Button -->
+        <a href="my-keys" data-tab="keys" onclick="App.navigate('keys', event)" class="nav-item ">
+            <svg class="icon" viewBox="0 0 24 24"><circle cx="7.5" cy="15.5" r="5.5"/><path d="m21 2-9.6 9.6"/><path d="m15.5 7.5 3 3L22 7l-3-3"/></svg>
+            <span>Keys</span>
+        </a>
+
+        <!-- 3. (+) Add Funds FAB Button -->
+        <div class="nav-fab-wrap">
+            <a href="wallet" data-tab="wallet" onclick="App.navigate('wallet', event)" class="nav-fab " title="Add Funds">
+                <svg class="icon icon-lg" viewBox="0 0 24 24"><path d="M5 12h14"/><path d="M12 5v14"/></svg>
+            </a>
+        </div>
+
+        <!-- 4. History Button -->
+        <a href="wallet-ledger" data-tab="history" onclick="App.navigate('history', event)" class="nav-item ">
+            <svg class="icon" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>
+            <span>History</span>
+        </a>
+
+        <!-- 5. Profile Button -->
+        <a href="profile" data-tab="profile" onclick="App.navigate('profile', event)" class="nav-item ">
+            <svg class="icon" viewBox="0 0 24 24"><path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+            <span>Profile</span>
+        </a>
+    </nav>
+
+    <!-- Modal: Purchase Confirmation -->
+    <div class="modal-backdrop" id="modal-purchase">
+        <div class="modal-box" id="modal-purchase-content"></div>
+    </div>
+
+    <!-- Modal: Key Delivery -->
+    <div class="modal-backdrop" id="modal-delivery">
+        <div class="modal-box" id="modal-delivery-content"></div>
+    </div>
+
+    <!-- Modal: Auth (Login/Signup) -->
+    <div class="modal-backdrop" id="modal-auth">
+        <div class="modal-box" id="modal-auth-content"></div>
+    </div>
+
+    <!-- Modal: Video Gameplay Demonstration -->
+    <div class="modal-backdrop" id="modal-video">
+        <div class="modal-box" id="modal-video-content"></div>
+    </div>
+
+    <!-- Modal: Announcement Notice -->
+    <div class="modal-backdrop" id="modal-announcement">
+        <div class="modal-box" id="modal-announcement-content"></div>
+    </div>
+
+    <!-- Modal: Payment UPI QR Code -->
+    <div class="modal-backdrop" id="modal-payment-qr">
+        <div class="modal-box" id="modal-payment-qr-content" style="max-width:440px; text-align:center;"></div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="assets/js/icons.js?v=1795560873"></script>
+    <script src="assets/js/app.js?v=1795560873"></script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092" integrity="sha512-UKNk8GbxkABxKcXYuLkO16EleLGUkcvJWtpSNmExE0Too3ZaFAxTscNWEc1OdAv5/BikHawapSCaiD2XCmp+Bw==" data-cf-beacon='{"version":"2024.11.0","token":"9e8fc9eafea44000beefd53a920ea299","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>
